@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="pages\NewUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\PasswordReset.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\Registration.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\UserTags.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\WelcomePagexaml.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\NewUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\PasswordReset.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Registration.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\UserTags.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\WelcomePagexaml.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
