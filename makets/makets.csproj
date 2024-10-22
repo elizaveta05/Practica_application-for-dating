@@ -10,7 +10,10 @@
 
   <ItemGroup>
     <None Remove="assets\backgroundthree.png" />
+    <None Remove="assets\man.png" />
+    <None Remove="assets\userInfo.png" />
     <None Remove="assets\Welcome.gif" />
+    <None Remove="assets\woman.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,8 +25,15 @@
     <Resource Include="assets\backgroundthree.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="assets\man.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="assets\userInfo.png" />
     <Resource Include="assets\welcome.gif">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="assets\woman.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>
 

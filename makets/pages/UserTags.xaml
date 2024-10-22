@@ -5,8 +5,102 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:makets.pages"
         mc:Ignorable="d"
-        Title="UserTags" Height="450" Width="800">
+        Title="UserTags" Height="570" Width="800">
+    <Window.Resources>
+        <Style x:Key="TagButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FFB5CDF3"/>
+            <Setter Property="Foreground" Value="#FF1A5A8C"/>
+            <Setter Property="BorderBrush" Value="#FFA4C2D6"/>
+            <Setter Property="BorderThickness" Value="10"/>
+            <Setter Property="Padding" Value="15,10"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="{TemplateBinding Background}" Stroke="{TemplateBinding BorderBrush}" StrokeThickness="{TemplateBinding BorderThickness}"/>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="RemoveButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FF1A5A8C"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF1A5A8C"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Width" Value="20"/>
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="{TemplateBinding Background}" Stroke="{TemplateBinding BorderBrush}" StrokeThickness="{TemplateBinding BorderThickness}"/>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFBFE5F0"/>
+            <GradientStop Color="#FFF3C5EE" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Чем вы увлекаетесь?" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10" Foreground="#FF1A5A8C"/>
+
+        <WrapPanel Name="TagPanel" Orientation="Horizontal" Grid.Row="1" Margin="10">
+            <Button Content="Искусство" Click="TagButton_Click" Tag="Искусство" Style="{StaticResource TagButtonStyle}" Width="116" Height="38"/>
+            <Button Content="Чтение" Click="TagButton_Click" Tag="Чтение" Style="{StaticResource TagButtonStyle}" Width="74"/>
+            <Button Content="Музыка" Click="TagButton_Click" Tag="Музыка" Style="{StaticResource TagButtonStyle}" Width="86"/>
+            <Button Content="Кино" Click="TagButton_Click" Tag="Кино" Style="{StaticResource TagButtonStyle}" Width="80"/>
+            <Button Content="Кулинария" Click="TagButton_Click" Tag="Кулинария" Style="{StaticResource TagButtonStyle}" Width="111"/>
+            <Button Content="Путешествия" Click="TagButton_Click" Tag="Путешествия" Style="{StaticResource TagButtonStyle}" Width="129"/>
+            <Button Content="Фитнес" Click="TagButton_Click" Tag="Фитнес" Style="{StaticResource TagButtonStyle}" Height="41" Width="84"/>
+            <Button Content="Видеоигры" Click="TagButton_Click" Tag="Видеоигры" Style="{StaticResource TagButtonStyle}" Height="33" Width="129"/>
+            <Button Content="Фотография" Click="TagButton_Click" Tag="Фотография" Style="{StaticResource TagButtonStyle}" Width="117"/>
+            <Button Content="Медитация" Click="TagButton_Click" Tag="Медитация" Style="{StaticResource TagButtonStyle}" Width="115"/>
+            <Button Content="Письмо" Click="TagButton_Click" Tag="Письмо" Style="{StaticResource TagButtonStyle}" Width="80"/>
+            <Button Content="Настольные игры" Click="TagButton_Click" Tag="Настольные игры" Style="{StaticResource TagButtonStyle}" Height="38" Width="152"/>
+            <Button Content="Танцы" Click="TagButton_Click" Tag="Танцы" Style="{StaticResource TagButtonStyle}" Width="73"/>
+            <Button Content="Волонтерство" Click="TagButton_Click" Tag="Волонтерство" Style="{StaticResource TagButtonStyle}" Width="131"/>
+            <Button Content="Спорт" Click="TagButton_Click" Tag="Спорт" Style="{StaticResource TagButtonStyle}" Width="76"/>
+            <Button Content="Литература" Click="TagButton_Click" Tag="Литература" Style="{StaticResource TagButtonStyle}" Width="120"/>
+            <Button Content="Мода" Click="TagButton_Click" Tag="Мода" Style="{StaticResource TagButtonStyle}" Width="70"/>
+            <Button Content="Вечеринки" Click="TagButton_Click" Tag="Вечеринки" Style="{StaticResource TagButtonStyle}" Height="38" Width="116"/>
+            <Button Content="Астрология" Click="TagButton_Click" Tag="Астрология" Style="{StaticResource TagButtonStyle}" Width="117"/>
+            <Button Content="Программирование" Click="TagButton_Click" Tag="Программирование" Style="{StaticResource TagButtonStyle}" Height="43" Width="180"/>
+        </WrapPanel>
+
+        <TextBlock Text="Ваши увлечения:" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="2" Margin="0,10,0,10" Foreground="#FF1A5A8C" />
+
+        <WrapPanel Name="SelectedTagPanel" Orientation="Horizontal" Grid.Row="3" Margin="10">
+            <!-- Selected tags will be added here -->
+        </WrapPanel>
+
+        <Border   Grid.Row="5"  Height="40" CornerRadius="15" Background="#FF1A5A8C" Padding="4" Width="200">
+            <Button Content="Продолжить" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_Click"  Height="30" FontSize="20"/>
+        </Border>
+
     </Grid>
+
 </Window>

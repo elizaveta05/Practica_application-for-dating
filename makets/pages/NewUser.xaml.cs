@@ -1,4 +1,5 @@
-﻿using System;
+﻿using makets.helper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,7 +27,11 @@ namespace makets.pages
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            string selectedGender = MaleOrFemale.SelectedItem.ToString().Split(":")[1];
+            UserInfoSaver.SelectedGender = selectedGender;
+            UserTags userTags = new UserTags();
+            userTags.Show();
+            this.Close();
         }
     }
 }

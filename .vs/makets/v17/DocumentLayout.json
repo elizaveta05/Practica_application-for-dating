@@ -3,48 +3,84 @@
   "WorkspaceRootPath": "D:\\course\\makets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userpurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userpurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\userpurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userpurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\usertags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\usertags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,15 +90,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserProfile.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserProfile.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\UserProfile.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:52:47.036Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserInfo.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserInfo.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserInfo.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\UserInfo.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:08:35.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordReset.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml",
+              "RelativeToolTip": "makets\\pages\\PasswordReset.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T14:37:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PasswordReset.xaml.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml.cs",
@@ -76,31 +154,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PasswordReset.xaml",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml",
-              "RelativeToolTip": "makets\\pages\\PasswordReset.xaml",
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserProfile.xaml",
+              "RelativeToolTip": "makets\\pages\\UserProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T14:37:51.591Z",
+              "WhenOpened": "2024-10-22T09:23:04.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewUser.xaml.cs",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\NewUser.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml.cs",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\NewUser.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\NewUser.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:06:38.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NewUser.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\NewUser.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml",
@@ -112,44 +177,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "makets\\MainWindow.xaml",
-              "ToolTip": "D:\\course\\makets\\makets\\MainWindow.xaml",
-              "RelativeToolTip": "makets\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T10:45:39.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\course\\makets\\makets\\MainWindow.xaml.cs",
-              "RelativeToolTip": "makets\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:45:37.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserTags.xaml",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserTags.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserTags.xaml",
-              "RelativeToolTip": "makets\\pages\\UserTags.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T14:13:14.246Z",
+              "Title": "NewUser.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\NewUser.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\NewUser.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\NewUser.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:06:38.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "WelcomePagexaml.xaml.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml.cs",
@@ -162,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WelcomePagexaml.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\WelcomePagexaml.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml",
@@ -175,19 +216,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Registration.xaml.cs",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Registration.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml.cs",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\Registration.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\Registration.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:25:44.268Z",
+              "Title": "UserTags.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserTags.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserTags.xaml",
+              "RelativeToolTip": "makets\\pages\\UserTags.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T14:13:14.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UserPurposes.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserPurposes.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserPurposes.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\UserPurposes.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:42:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "makets\\MainWindow.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\MainWindow.xaml",
+              "RelativeToolTip": "makets\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T10:45:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserPurposes.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserPurposes.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserPurposes.xaml",
+              "RelativeToolTip": "makets\\pages\\UserPurposes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:35:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Registration.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Registration.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml",
@@ -196,6 +273,81 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T10:50:32.637Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserTags.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserTags.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserTags.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\UserTags.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwD4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:59:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInfo.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\UserInfo.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\UserInfo.xaml",
+              "RelativeToolTip": "makets\\pages\\UserInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:56:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfoSaver.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\UserInfoSaver.cs",
+              "RelativeDocumentMoniker": "makets\\helper\\UserInfoSaver.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\helper\\UserInfoSaver.cs",
+              "RelativeToolTip": "makets\\helper\\UserInfoSaver.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:02:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Registration.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\Registration.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:25:44.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColorHelper.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\ColorHelper.cs",
+              "RelativeDocumentMoniker": "makets\\helper\\ColorHelper.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\helper\\ColorHelper.cs",
+              "RelativeToolTip": "makets\\helper\\ColorHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:19:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\MainWindow.xaml.cs",
+              "RelativeToolTip": "makets\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:45:37.368Z"
             }
           ]
         },

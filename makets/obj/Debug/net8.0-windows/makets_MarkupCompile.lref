@@ -1,9 +1,12 @@
 ﻿
 
 FD:\course\makets\makets\MainWindow.xaml;;
-FD:\course\makets\makets\pages\Registration.xaml;;
-FD:\course\makets\makets\pages\WelcomePagexaml.xaml;;
 FD:\course\makets\makets\pages\NewUser.xaml;;
 FD:\course\makets\makets\pages\PasswordReset.xaml;;
+FD:\course\makets\makets\pages\Registration.xaml;;
+FD:\course\makets\makets\pages\UserInfo.xaml;;
+FD:\course\makets\makets\pages\UserPurposes.xaml;;
 FD:\course\makets\makets\pages\UserTags.xaml;;
+FD:\course\makets\makets\pages\WelcomePagexaml.xaml;;
+FD:\course\makets\makets\pages\UserProfile.xaml;;
 

@@ -16,6 +16,15 @@
     <Compile Update="pages\Registration.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="pages\UserInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\UserProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\UserPurposes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="pages\UserTags.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +43,15 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\Registration.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\UserInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\UserProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\UserPurposes.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\UserTags.xaml">

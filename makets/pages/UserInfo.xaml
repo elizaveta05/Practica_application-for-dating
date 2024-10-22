@@ -1,0 +1,34 @@
+﻿<Window x:Class="makets.pages.UserInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:makets.pages"
+        mc:Ignorable="d"
+        Title="UserInfo" Height="450" Width="800">
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFBFE5F0"/>
+            <GradientStop Color="#FFF3C5EE" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto" MinHeight="47.117"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Расскажите о себе" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10" Foreground="#FF1A5A8C" Width="216"/>
+
+        <Grid Grid.Row="1" Margin="20,20,20,20">
+            <Image Source="/assets/userinfo.png" Width="475" Height="272" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Name="TextOnImage" Background="Transparent" BorderThickness="0" FontSize="16" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Width="311" Height="126" TextWrapping="Wrap"/>
+        </Grid>
+
+        <Border   Grid.Row="2" CornerRadius="15" Background="#FF1A5A8C" Padding="4" Margin="292,0,300,0">
+            <Button Content="Перейти в профиль" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_Click"  Height="30" FontSize="20"/>
+        </Border>
+    </Grid>
+</Window>
