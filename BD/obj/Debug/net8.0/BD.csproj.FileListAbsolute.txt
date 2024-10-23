@@ -1,0 +1,15 @@
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\bin\Debug\net8.0\BD.deps.json
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\bin\Debug\net8.0\BD.runtimeconfig.json
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\bin\Debug\net8.0\BD.dll
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\bin\Debug\net8.0\BD.pdb
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.csproj.AssemblyReference.cache
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.AssemblyInfoInputs.cache
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.AssemblyInfo.cs
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.sourcelink.json
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.dll
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\refint\BD.dll
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.pdb
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\BD.genruntimeconfig.cache
+C:\Users\elozo\source\repos\Practica_application-for-dating\BD\obj\Debug\net8.0\ref\BD.dll
