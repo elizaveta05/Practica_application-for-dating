@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LrCpBtptroDpb3+jlj+gUZExDZLrLfLFu5a4jDFRgjk+q75tJ3m17HA6Xk/MXkImiaaR1Hwv3vgz6srNcwMxvg==",
+  "dgSpecHash": "wY6HIuUSO2k=",
   "success": true,
-  "projectFilePath": "D:\\course\\makets\\makets\\makets.csproj",
+  "projectFilePath": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\makets.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\socia\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512",
-    "C:\\Users\\socia\\.nuget\\packages\\xamlanimatedgif\\2.3.0\\xamlanimatedgif.2.3.0.nupkg.sha512"
+    "C:\\Users\\elozo\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512",
+    "C:\\Users\\elozo\\.nuget\\packages\\xamlanimatedgif\\2.3.0\\xamlanimatedgif.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }
