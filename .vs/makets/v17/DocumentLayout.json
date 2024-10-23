@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\",
+  "WorkspaceRootPath": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userpurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userpurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userpurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\userpurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\userpurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\userpurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\usertags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\usertags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\usertags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\maket\\makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\maket\\makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,15 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -120,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserProfile.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserProfile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserProfile.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserProfile.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserProfile.xaml.cs",
               "RelativeToolTip": "makets\\pages\\UserProfile.xaml.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserInfo.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserInfo.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserInfo.xaml.cs",
               "RelativeToolTip": "makets\\pages\\UserInfo.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAArwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PasswordReset.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\PasswordReset.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\PasswordReset.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\PasswordReset.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\PasswordReset.xaml",
               "RelativeToolTip": "makets\\pages\\PasswordReset.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T14:37:51.591Z"
@@ -155,9 +151,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PasswordReset.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\PasswordReset.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\PasswordReset.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeToolTip": "makets\\pages\\PasswordReset.xaml.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAArwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,9 +163,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserProfile.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserProfile.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserProfile.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserProfile.xaml",
               "RelativeToolTip": "makets\\pages\\UserProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T09:23:04.17Z",
@@ -179,9 +175,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NewUser.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\NewUser.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\NewUser.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\NewUser.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\NewUser.xaml",
               "RelativeToolTip": "makets\\pages\\NewUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T13:27:09.851Z"
@@ -190,9 +186,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "NewUser.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\NewUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\NewUser.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\NewUser.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\NewUser.xaml.cs",
               "RelativeToolTip": "makets\\pages\\NewUser.xaml.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAcwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,9 +198,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WelcomePagexaml.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\WelcomePagexaml.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\WelcomePagexaml.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeToolTip": "makets\\pages\\WelcomePagexaml.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAawB4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +210,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "WelcomePagexaml.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\WelcomePagexaml.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\WelcomePagexaml.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\WelcomePagexaml.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\WelcomePagexaml.xaml",
               "RelativeToolTip": "makets\\pages\\WelcomePagexaml.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T12:16:01.871Z"
@@ -225,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "UserTags.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserTags.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserTags.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserTags.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserTags.xaml",
               "RelativeToolTip": "makets\\pages\\UserTags.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T14:13:14.246Z"
@@ -236,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserPurposes.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserPurposes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserPurposes.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserPurposes.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserPurposes.xaml.cs",
               "RelativeToolTip": "makets\\pages\\UserPurposes.xaml.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAtwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\MainWindow.xaml",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\MainWindow.xaml",
               "RelativeToolTip": "makets\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T10:45:39.564Z"
@@ -259,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UserPurposes.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserPurposes.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserPurposes.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserPurposes.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserPurposes.xaml",
               "RelativeToolTip": "makets\\pages\\UserPurposes.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T07:35:20.523Z"
@@ -270,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Registration.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\Registration.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\Registration.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\Registration.xaml",
               "RelativeToolTip": "makets\\pages\\Registration.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T10:50:32.637Z"
@@ -281,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "UserTags.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserTags.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserTags.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserTags.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserTags.xaml.cs",
               "RelativeToolTip": "makets\\pages\\UserTags.xaml.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAqwD4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,9 +289,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserInfo.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserInfo.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\UserInfo.xaml",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\UserInfo.xaml",
               "RelativeToolTip": "makets\\pages\\UserInfo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T07:56:54.491Z"
@@ -304,9 +300,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UserInfoSaver.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\helper\\UserInfoSaver.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\helper\\UserInfoSaver.cs",
               "RelativeDocumentMoniker": "makets\\helper\\UserInfoSaver.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\helper\\UserInfoSaver.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\helper\\UserInfoSaver.cs",
               "RelativeToolTip": "makets\\helper\\UserInfoSaver.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,9 +312,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Registration.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\Registration.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\pages\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\pages\\Registration.xaml.cs",
               "RelativeToolTip": "makets\\pages\\Registration.xaml.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ColorHelper.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\helper\\ColorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\helper\\ColorHelper.cs",
               "RelativeDocumentMoniker": "makets\\helper\\ColorHelper.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\helper\\ColorHelper.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\helper\\ColorHelper.cs",
               "RelativeToolTip": "makets\\helper\\ColorHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,9 +336,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\Maket\\makets\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\elozo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04302\\Maket\\makets\\MainWindow.xaml.cs",
               "RelativeToolTip": "makets\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

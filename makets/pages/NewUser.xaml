@@ -89,7 +89,7 @@
         </Grid.RowDefinitions>
         <Label Grid.Column="1" Grid.Row="0" Content="Расскажите о себе!" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="#FF1A5A8C"/>
         <TextBlock Grid.Column="1" Grid.Row="1" Text="Как вас зовут?" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold" />
-        <TextBox Template="{StaticResource TextBoxBaseControlTemplate}" Grid.Column="1" Grid.Row="1" Style="{StaticResource TextBoxStyle}" Margin="25,25,0,0"/>
+        <TextBox x:Name="tb_name" Template="{StaticResource TextBoxBaseControlTemplate}" Grid.Column="1" Grid.Row="1" Style="{StaticResource TextBoxStyle}" Margin="25,25,0,0"/>
         <TextBlock Grid.Column="1" Grid.Row="2" Text="Дата рождения:" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold"/>
         <DatePicker Grid.Column="1" Grid.Row="2" Style="{StaticResource DatePickerStyle}" Margin="25,25,0,0"/>
         <TextBlock Grid.Column="1" Grid.Row="3" Text="Пол:" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold"/>

@@ -80,3 +80,45 @@ C:\Users\elozo\source\repos\Practica_application-for-dating\Maket\makets\obj\Deb
 C:\Users\elozo\source\repos\Practica_application-for-dating\Maket\makets\obj\Debug\net8.0-windows\makets.pdb
 C:\Users\elozo\source\repos\Practica_application-for-dating\Maket\makets\obj\Debug\net8.0-windows\makets.genruntimeconfig.cache
 C:\Users\elozo\source\repos\Practica_application-for-dating\Maket\makets\obj\Debug\net8.0-windows\ref\makets.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\makets.exe
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\makets.deps.json
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\makets.runtimeconfig.json
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\makets.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\makets.pdb
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\XamlAnimatedGif.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.csproj.AssemblyReference.cache
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\NewUser.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\PasswordReset.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\Registration.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserInfo.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserProfile.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserPurposes.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserTags.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\WelcomePagexaml.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets_MarkupCompile.cache
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets_MarkupCompile.lref
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\NewUser.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\PasswordReset.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\Registration.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserInfo.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserProfile.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserPurposes.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\UserTags.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\pages\WelcomePagexaml.baml
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.g.resources
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.AssemblyInfoInputs.cache
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.AssemblyInfo.cs
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.csproj.CoreCompileInputs.cache
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.sourcelink.json
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.csproj.Up2Date
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\refint\makets.dll
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.pdb
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\makets.genruntimeconfig.cache
+C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\ref\makets.dll

@@ -79,7 +79,7 @@
                         CornerRadius="15">
                     <StackPanel VerticalAlignment="Center" Height="282">
                         <TextBlock Text="Введите логин:" Foreground="#09283d" Margin="0 0 0 10" FontSize="15"/>
-                        <TextBox Template="{StaticResource TextBoxBaseControlTemplate}" Height="30" Margin="0 0 0 10" Foreground="#09283d"/>
+                        <TextBox x:Name="tb_login" Template="{StaticResource TextBoxBaseControlTemplate}" Height="30" Margin="0 0 0 10" Foreground="#09283d"/>
 
                         <TextBlock Text="Введите пароль:" Foreground="#09283d" Margin="0 0 0 10" FontSize="15"/>
                         <PasswordBox x:Name="PassB1" Template="{StaticResource PasswordBoxControlTemplate}" Height="30" Margin="0 0 0 10"/>
@@ -88,7 +88,7 @@
                         <PasswordBox x:Name="PassB2" Template="{StaticResource PasswordBoxControlTemplate}" Height="30" Margin="0 0 0 10"/>
 
                         <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
-                            <Button Content="Зарегистрироваться" Background="#09283d" BorderBrush="Transparent" Foreground="White" FontSize="14" Click="Button_Click"/>
+                            <Button x:Name="btn_register" Content="Зарегистрироваться" Background="#09283d" BorderBrush="Transparent" Foreground="White" FontSize="14" Click="Button_Click"/>
                         </Border>
 
                         <StackPanel Orientation="Horizontal" Margin="0 3 0 0">
