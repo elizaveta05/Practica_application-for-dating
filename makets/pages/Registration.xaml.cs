@@ -64,12 +64,17 @@ namespace makets.pages
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             var response = await _httpClient.PostAsync("Autho/register", content);
-            
+
             if (response.IsSuccessStatusCode)
             {
-                MessageBox.Show("Регистрация успешна!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+                // Чтение и парсинг ответа
+                var resultContent = await response.Content.ReadAsStringAsync();
+                var result = JsonConvert.DeserializeObject<dynamic>(resultContent);
+                int userId = result.userId;
+
+
                 // Переход на страницу приветствия
-                WelcomePagexaml welcomWindow = new WelcomePagexaml();
+                WelcomePagexaml welcomWindow = new WelcomePagexaml(userId);
                 welcomWindow.Show();
                 this.Close();
             }

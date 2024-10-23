@@ -19,14 +19,16 @@ namespace makets.pages
     /// </summary>
     public partial class WelcomePagexaml : Window
     {
-        public WelcomePagexaml()
+        private int userId;
+        public WelcomePagexaml(int userId)
         {
             InitializeComponent();
+            this.userId = userId;
         }
 
         private void StartTextBlock_MouseUp(object sender, MouseButtonEventArgs e)
         {
-            NewUser newUser = new NewUser();
+            NewUser newUser = new NewUser(userId);
             newUser.Show();
             this.Close();
         }

@@ -89,17 +89,18 @@
         </Grid.RowDefinitions>
         <Label Grid.Column="1" Grid.Row="0" Content="Расскажите о себе!" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="#FF1A5A8C"/>
         <TextBlock Grid.Column="1" Grid.Row="1" Text="Как вас зовут?" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold" />
-        <TextBox x:Name="tb_name" Template="{StaticResource TextBoxBaseControlTemplate}" Grid.Column="1" Grid.Row="1" Style="{StaticResource TextBoxStyle}" Margin="25,25,0,0"/>
+        <TextBox x:Name="tb_name" Template="{StaticResource TextBoxBaseControlTemplate}" Grid.Column="1" Grid.Row="1" Style="{StaticResource TextBoxStyle}" Margin="25,25,0,0" Text="ФИО"/>
         <TextBlock Grid.Column="1" Grid.Row="2" Text="Дата рождения:" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold"/>
-        <DatePicker Grid.Column="1" Grid.Row="2" Style="{StaticResource DatePickerStyle}" Margin="25,25,0,0"/>
+        <DatePicker x:Name="datePicker" Grid.Column="1" Grid.Row="2" Style="{StaticResource DatePickerStyle}" Margin="25,25,0,0"/>
         <TextBlock Grid.Column="1" Grid.Row="3" Text="Пол:" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold"/>
         <ComboBox x:Name="MaleOrFemale" Grid.Column="1" Grid.Row="3" Style="{StaticResource GenderComboBoxStyle}" Margin="25,25,0,0">
             <ComboBoxItem Content="Мужской"/>
             <ComboBoxItem Content="Женский"/>
-            <ComboBoxItem Content="Другой"/>
         </ComboBox>
         <TextBlock Grid.Column="1" Grid.Row="4" Text="Город:" FontSize="20" Margin="25,0,0,0" Foreground="#FF1A5A8C" FontWeight="Bold"/>
-        <TextBox Template="{StaticResource TextBoxBaseControlTemplate}" Grid.Column="1" Grid.Row="4" Style="{StaticResource TextBoxStyle}" Margin="25,25,0,0"/>
+        <ComboBox x:Name="cb_city" Grid.Column="1" Grid.Row="4" 
+          Style="{StaticResource GenderComboBoxStyle}" 
+          Margin="25,25,0,0" SelectionChanged="CitySuggestions_SelectionChanged" />
         <Border   Grid.Row="5" Grid.Column="1" Height="40" CornerRadius="15" Background="#FF1A5A8C" Padding="4" Width="200">
             <Button Content="Продолжить" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_Click"  Height="30" FontSize="20"/>
         </Border>

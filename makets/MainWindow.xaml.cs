@@ -38,9 +38,14 @@ namespace makets
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            /*
             //логика проверки логина, пароля 
-            WelcomePagexaml welcomWindow = new WelcomePagexaml();
+            WelcomePagexaml welcomWindow = new WelcomePagexaml(0);
             welcomWindow.Show();
+            this.Close();
+            */
+            NewUser newUser = new NewUser(4);
+            newUser.Show();
             this.Close();
         }
     }
