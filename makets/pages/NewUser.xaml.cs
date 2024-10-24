@@ -30,12 +30,15 @@ namespace makets.pages
 
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
+            //Проводим проверку данных
             if (!ValidateForm())
                 return;
 
+            //Разделяем полное ФИО на отдельные слова
             string fullName = tb_name.Text.Trim();
             var nameParts = fullName.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
+            //Проверка на то, что слов либо 2(ФИ), либо 3(ФИО)
             if (nameParts.Length < 2 || nameParts.Length > 3)
             {
                 MessageBox.Show("ФИО должно содержать хотя бы фамилию и имя.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -46,16 +49,13 @@ namespace makets.pages
             string firstName = nameParts[1];
             string patronymic = nameParts.Length == 3 ? nameParts[2] : null; // Если отчество отсутствует, установим null
 
+            //Проверяем какой выбор осуществил пользователь, выбирая гендер
             string selectedGender = (MaleOrFemale.SelectedItem as ComboBoxItem)?.Content.ToString();
-            if (string.IsNullOrEmpty(selectedGender))
-            {
-                MessageBox.Show("Пожалуйста, выберите пол.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
-                return;
-            }
-
+            //Записываем выбранную дату
             var dateOfBirth = datePicker.SelectedDate.Value;
+            //В зависимости от выбора гендера, указываем id
             int genderId = selectedGender == "Мужской" ? 1 : 2;
-
+            //Создаем новую запись в DataUser
             var dataUser = new DataUser
             {
                 LastName = lastName,
@@ -66,20 +66,33 @@ namespace makets.pages
                 LocationId = _selectedCityId, // Используем сохранённый ID города
                 UdrId = _userId
             };
-
+            //Передаем на сервер данные клиента 
             await SendDataToServerAsync(dataUser);
         }
 
 
         private async Task SendDataToServerAsync(DataUser dataUser)
         {
+            //Конвентируем данные перед отправкой
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(dataUser);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
+            //Отправляем на серверную часть в контроллер
             var response = await _httpClient.PostAsync("Autho/newDataUser", content);
+            //Ответ от сервера
             if (response.IsSuccessStatusCode)
             {
-                MessageBox.Show("Данные успешно отправлены!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+                var resultContent = await response.Content.ReadAsStringAsync();
+                var result = JsonConvert.DeserializeObject<dynamic>(resultContent);
+                int resultUserId = result.userId;//Получаем id новой записи
+
+                //Переход происходит только в случае, если сервер возвращает в ответ новый id, который не может быть null
+                if(resultUserId.ToString() != null)
+                {
+                    UserTags userTags = new UserTags(resultUserId);
+                    userTags.Show();
+                    this.Close();
+                }
             }
             else
             {
@@ -88,6 +101,7 @@ namespace makets.pages
             }
         }
 
+        //Метод проверки данных
         private bool ValidateForm()
         {
             if (string.IsNullOrWhiteSpace(tb_name.Text))
@@ -102,7 +116,6 @@ namespace makets.pages
                 MessageBox.Show("ФИО должно содержать либо Фамилию и Имя, либо Фамилию, Имя и Отчество.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return false;
             }
-
 
             if (datePicker.SelectedDate == null)
             {
@@ -136,6 +149,7 @@ namespace makets.pages
             return true;
         }
 
+        //Метод загрузки данных в combobox о доступных городах
         private async Task LoadCitiesAsync()
         {
             var cities = await GetCitySuggestionsAsync();
@@ -144,6 +158,7 @@ namespace makets.pages
             cb_city.SelectedValuePath = "LocationId";
         }
 
+        //Метод выбора конкретного города с сохранением id выбора
         private void CitySuggestions_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (cb_city.SelectedItem is Location selectedCity)
@@ -152,6 +167,7 @@ namespace makets.pages
             }
         }
 
+        //Метод отправки запроса на получения списка всех доступных городов
         private async Task<List<Location>> GetCitySuggestionsAsync()
         {
             try

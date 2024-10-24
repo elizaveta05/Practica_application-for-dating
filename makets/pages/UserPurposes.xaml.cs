@@ -20,9 +20,11 @@ namespace makets.pages
     /// </summary>
     public partial class UserPurposes : Window
     {
-        public UserPurposes()
+        private int userId;
+        public UserPurposes(int userId)
         {
             InitializeComponent();
+            this.userId = userId;
         }
         private void ToggleButton_Click(object sender, RoutedEventArgs e)
         {

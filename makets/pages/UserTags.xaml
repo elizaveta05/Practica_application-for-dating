@@ -69,26 +69,26 @@
         <TextBlock Text="Чем вы увлекаетесь?" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10" Foreground="#FF1A5A8C"/>
 
         <WrapPanel Name="TagPanel" Orientation="Horizontal" Grid.Row="1" Margin="10">
-            <Button Content="Искусство" Click="TagButton_Click" Tag="Искусство" Style="{StaticResource TagButtonStyle}" Width="116" Height="38"/>
-            <Button Content="Чтение" Click="TagButton_Click" Tag="Чтение" Style="{StaticResource TagButtonStyle}" Width="74"/>
-            <Button Content="Музыка" Click="TagButton_Click" Tag="Музыка" Style="{StaticResource TagButtonStyle}" Width="86"/>
-            <Button Content="Кино" Click="TagButton_Click" Tag="Кино" Style="{StaticResource TagButtonStyle}" Width="80"/>
-            <Button Content="Кулинария" Click="TagButton_Click" Tag="Кулинария" Style="{StaticResource TagButtonStyle}" Width="111"/>
-            <Button Content="Путешествия" Click="TagButton_Click" Tag="Путешествия" Style="{StaticResource TagButtonStyle}" Width="129"/>
-            <Button Content="Фитнес" Click="TagButton_Click" Tag="Фитнес" Style="{StaticResource TagButtonStyle}" Height="41" Width="84"/>
-            <Button Content="Видеоигры" Click="TagButton_Click" Tag="Видеоигры" Style="{StaticResource TagButtonStyle}" Height="33" Width="129"/>
-            <Button Content="Фотография" Click="TagButton_Click" Tag="Фотография" Style="{StaticResource TagButtonStyle}" Width="117"/>
-            <Button Content="Медитация" Click="TagButton_Click" Tag="Медитация" Style="{StaticResource TagButtonStyle}" Width="115"/>
-            <Button Content="Письмо" Click="TagButton_Click" Tag="Письмо" Style="{StaticResource TagButtonStyle}" Width="80"/>
-            <Button Content="Настольные игры" Click="TagButton_Click" Tag="Настольные игры" Style="{StaticResource TagButtonStyle}" Height="38" Width="152"/>
-            <Button Content="Танцы" Click="TagButton_Click" Tag="Танцы" Style="{StaticResource TagButtonStyle}" Width="73"/>
-            <Button Content="Волонтерство" Click="TagButton_Click" Tag="Волонтерство" Style="{StaticResource TagButtonStyle}" Width="131"/>
-            <Button Content="Спорт" Click="TagButton_Click" Tag="Спорт" Style="{StaticResource TagButtonStyle}" Width="76"/>
-            <Button Content="Литература" Click="TagButton_Click" Tag="Литература" Style="{StaticResource TagButtonStyle}" Width="120"/>
-            <Button Content="Мода" Click="TagButton_Click" Tag="Мода" Style="{StaticResource TagButtonStyle}" Width="70"/>
-            <Button Content="Вечеринки" Click="TagButton_Click" Tag="Вечеринки" Style="{StaticResource TagButtonStyle}" Height="38" Width="116"/>
-            <Button Content="Астрология" Click="TagButton_Click" Tag="Астрология" Style="{StaticResource TagButtonStyle}" Width="117"/>
-            <Button Content="Программирование" Click="TagButton_Click" Tag="Программирование" Style="{StaticResource TagButtonStyle}" Height="43" Width="180"/>
+            <Button Content="Искусство" Click="TagButton_Click" Tag="1" Style="{StaticResource TagButtonStyle}" Width="116" Height="38"/>
+            <Button Content="Чтение" Click="TagButton_Click" Tag="2" Style="{StaticResource TagButtonStyle}" Width="74"/>
+            <Button Content="Музыка" Click="TagButton_Click" Tag="3" Style="{StaticResource TagButtonStyle}" Width="86"/>
+            <Button Content="Кино" Click="TagButton_Click" Tag="4" Style="{StaticResource TagButtonStyle}" Width="80"/>
+            <Button Content="Кулинария" Click="TagButton_Click" Tag="5" Style="{StaticResource TagButtonStyle}" Width="111"/>
+            <Button Content="Путешествия" Click="TagButton_Click" Tag="6" Style="{StaticResource TagButtonStyle}" Width="129"/>
+            <Button Content="Фитнес" Click="TagButton_Click" Tag="7" Style="{StaticResource TagButtonStyle}" Height="41" Width="84"/>
+            <Button Content="Видеоигры" Click="TagButton_Click" Tag="8" Style="{StaticResource TagButtonStyle}" Height="33" Width="129"/>
+            <Button Content="Фотография" Click="TagButton_Click" Tag="9" Style="{StaticResource TagButtonStyle}" Width="117"/>
+            <Button Content="Медитация" Click="TagButton_Click" Tag="10" Style="{StaticResource TagButtonStyle}" Width="115"/>
+            <Button Content="Письмо" Click="TagButton_Click" Tag="11" Style="{StaticResource TagButtonStyle}" Width="80"/>
+            <Button Content="Настольные игры" Click="TagButton_Click" Tag="12" Style="{StaticResource TagButtonStyle}" Height="38" Width="152"/>
+            <Button Content="Танцы" Click="TagButton_Click" Tag="13" Style="{StaticResource TagButtonStyle}" Width="73"/>
+            <Button Content="Волонтерство" Click="TagButton_Click" Tag="14" Style="{StaticResource TagButtonStyle}" Width="131"/>
+            <Button Content="Спорт" Click="TagButton_Click" Tag="15" Style="{StaticResource TagButtonStyle}" Width="76"/>
+            <Button Content="Литература" Click="TagButton_Click" Tag="16" Style="{StaticResource TagButtonStyle}" Width="120"/>
+            <Button Content="Мода" Click="TagButton_Click" Tag="17" Style="{StaticResource TagButtonStyle}" Width="70"/>
+            <Button Content="Вечеринки" Click="TagButton_Click" Tag="18" Style="{StaticResource TagButtonStyle}" Height="38" Width="116"/>
+            <Button Content="Астрология" Click="TagButton_Click" Tag="19" Style="{StaticResource TagButtonStyle}" Width="117"/>
+            <Button Content="Программирование" Click="TagButton_Click" Tag="20" Style="{StaticResource TagButtonStyle}" Height="43" Width="180"/>
         </WrapPanel>
 
         <TextBlock Text="Ваши увлечения:" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="2" Margin="0,10,0,10" Foreground="#FF1A5A8C" />

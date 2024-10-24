@@ -72,11 +72,13 @@ namespace makets.pages
                 var result = JsonConvert.DeserializeObject<dynamic>(resultContent);
                 int userId = result.userId;
 
-
-                // Переход на страницу приветствия
-                WelcomePagexaml welcomWindow = new WelcomePagexaml(userId);
-                welcomWindow.Show();
-                this.Close();
+                if (userId.ToString() != null)
+                {
+                    // Переход на страницу приветствия
+                    WelcomePagexaml welcomWindow = new WelcomePagexaml(userId);
+                    welcomWindow.Show();
+                    this.Close();
+                }
             }
             else
             {
