@@ -70,7 +70,6 @@ namespace makets.pages
             }
         }
 
-
         private void RemoveTag_Click(string tagContent, Button tagButton, StackPanel tagStackPanel, double width, double height)
         {
             SelectedTagPanel.Children.Remove(tagStackPanel);

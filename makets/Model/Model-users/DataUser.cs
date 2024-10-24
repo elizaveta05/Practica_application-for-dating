@@ -16,8 +16,8 @@ namespace makets.Model.Model_users
         public string? Patronymic { get; set; }
 
         [Required(ErrorMessage = "Дата рождения обязательна.")]
-        [DataType(DataType.Date)]
-        public DateOnly DateOfBirth { get; set; }
+
+        public string DateOfBirth { get; set; }
 
         [Required(ErrorMessage = "Пол обязательный.")]
         public int GenderId { get; set; }

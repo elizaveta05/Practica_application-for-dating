@@ -1,6 +1,6 @@
 ﻿using makets.helper;
-using makets.Model.Model_users;
 using Newtonsoft.Json;
+using makets.Model.Model_users;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
@@ -30,15 +30,12 @@ namespace makets.pages
 
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
-            //Проводим проверку данных
             if (!ValidateForm())
                 return;
 
-            //Разделяем полное ФИО на отдельные слова
             string fullName = tb_name.Text.Trim();
             var nameParts = fullName.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-            //Проверка на то, что слов либо 2(ФИ), либо 3(ФИО)
             if (nameParts.Length < 2 || nameParts.Length > 3)
             {
                 MessageBox.Show("ФИО должно содержать хотя бы фамилию и имя.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -47,31 +44,27 @@ namespace makets.pages
 
             string lastName = nameParts[0];
             string firstName = nameParts[1];
-            string patronymic = nameParts.Length == 3 ? nameParts[2] : null; // Если отчество отсутствует, установим null
+            string patronymic = nameParts.Length == 3 ? nameParts[2] : null;
 
-            //Проверяем какой выбор осуществил пользователь, выбирая гендер
+
             string selectedGender = (MaleOrFemale.SelectedItem as ComboBoxItem)?.Content.ToString();
-            //Записываем выбранную дату
-            var dateOfBirth = datePicker.SelectedDate.Value;
-            //В зависимости от выбора гендера, указываем id
             int genderId = selectedGender == "Мужской" ? 1 : 2;
-            //Создаем новую запись в DataUser
-            var dataUser = new DataUser
+
+            var dataUser = new 
             {
                 LastName = lastName,
                 FirstName = firstName,
-                Patronymic = patronymic, 
-                DateOfBirth = new DateOnly(dateOfBirth.Year, dateOfBirth.Month, dateOfBirth.Day),
-                GenderId = genderId,
-                LocationId = _selectedCityId, // Используем сохранённый ID города
-                UdrId = _userId
+                Patronymic = patronymic,
+                DateOfBirth = datePicker.SelectedDate.Value.ToString("yyyy-MM-dd"), 
+                GenderId = genderId, 
+                LocationId = _selectedCityId, 
+                UdrId = _userId 
             };
-            //Передаем на сервер данные клиента 
+
             await SendDataToServerAsync(dataUser);
         }
 
-
-        private async Task SendDataToServerAsync(DataUser dataUser)
+        private async Task SendDataToServerAsync(Object dataUser)
         {
             //Конвентируем данные перед отправкой
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(dataUser);

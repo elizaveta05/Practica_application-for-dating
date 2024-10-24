@@ -54,13 +54,12 @@
         <TextBlock Text="Выбрать цель" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,10" Foreground="#FF1A5A8C"/>
 
         <StackPanel Grid.Row="1" Margin="20" Height="250">
-            <ToggleButton Content="Серьезные отношения" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click"/>
-            <ToggleButton Content="Дружеское общение" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click"/>
-            <ToggleButton Content="Флирт и свидания" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click"/>
-            <ToggleButton Content="Решу, когда встречу" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click"/>
-            <ToggleButton Content="Другое" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click"/>
-            
-            
+            <StackPanel x:Name="ToggleButtonsPanel" Grid.Row="1" Margin="20" Height="250">
+                <ToggleButton Content="Серьезные отношения" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click" Tag="1"/>
+                <ToggleButton Content="Дружеское общение" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click" Tag="2"/>
+                <ToggleButton Content="Флирт и свидания" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click" Tag="3"/>
+                <ToggleButton Content="Решу, когда встречу" Style="{StaticResource ToggleButtonStyle}" Click="ToggleButton_Click" Tag="4"/>
+            </StackPanel>
         </StackPanel>
         <Border   Grid.Row="2"  Height="40" CornerRadius="15" Background="#FF1A5A8C" Padding="4" Width="200"  Grid.RowSpan="2" VerticalAlignment="Top">
             <Button Content="Продолжить" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_Click"  Height="30" FontSize="20"/>
