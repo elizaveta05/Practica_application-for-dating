@@ -4,7 +4,7 @@ namespace makets.pages
 {
     public partial class UserProfile : Window
     {
-        public UserProfile()
+        public UserProfile(int userid)
         {
             InitializeComponent();
         }

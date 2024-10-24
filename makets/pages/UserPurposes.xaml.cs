@@ -99,7 +99,7 @@ namespace makets.pages
                 // Проверяем, что сообщение от сервера содержит "Пользовательские теги сохранены."
                 if (result?.message == "Пользовательские теги сохранены.")
                 {
-                    UserInfo userInfo = new UserInfo();
+                    UserInfo userInfo = new UserInfo(userId);
                     userInfo.Show();
                     this.Close();
                 }

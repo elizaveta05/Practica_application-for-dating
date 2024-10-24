@@ -44,7 +44,7 @@ namespace makets
             welcomWindow.Show();
             this.Close();
             */
-            NewUser window = new NewUser(2);
+            UserInfo window = new UserInfo(2);
             window.Show();
             this.Close();
         }
