@@ -75,8 +75,8 @@
                                 <Button Content="Войти" Background="#09283d" BorderBrush="Transparent" Foreground="White" Click="Button_Click" Height="22" VerticalAlignment="Top"/>
                             </Border>
                             <StackPanel Orientation="Horizontal" Margin="0 3 0 0">
-                                <Label Content="Забыли пароль?" MouseUp="Label_MouseUp" Margin="0 0 10 0"/>
-                                <Label Content="Регистрация" MouseUp="Label_MouseUp_1" Margin="24 0 0 0"/>
+                                <Label Content="Забыли пароль?" x:Name="ForgotPwdBtn" MouseUp="ForgotPwdBtn_MouseUp" Margin="0 0 10 0"/>
+                                <Label Content="Регистрация" Margin="24 0 0 0"/>
                             </StackPanel>
                         </StackPanel>
                     </Border>

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\obj\Debug\net8.0-windows\
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\
 makets
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\App.xaml
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\App.xaml
 9892682842
 
-201359245216
-216642706161
+27-804641484
+20113134486
 MainWindow.xaml;pages\NewUser.xaml;pages\PasswordReset.xaml;pages\Registration.xaml;pages\UserInfo.xaml;pages\UserProfile.xaml;pages\UserPurposes.xaml;pages\UserTags.xaml;pages\WelcomePagexaml.xaml;
 
 False

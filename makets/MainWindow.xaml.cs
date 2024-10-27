@@ -62,5 +62,10 @@ namespace makets
                 MessageBox.Show($"Ошибка авторизации: {errorMessage}");
             }
         }
+
+        private void ForgotPwdBtn_MouseUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+
+        }
     }
 }

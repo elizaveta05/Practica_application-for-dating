@@ -138,3 +138,19 @@ C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\b
 C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\BD.dll
 C:\Users\elozo\OneDrive\Рабочий стол\практика2\Maket\makets\bin\Debug\net8.0-windows\BD.pdb
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets.dll
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\refint\makets.dll
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets.pdb
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets.csproj.AssemblyReference.cache
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\NewUser.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\PasswordReset.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\Registration.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\UserInfo.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\UserProfile.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\UserPurposes.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\UserTags.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\WelcomePagexaml.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets_MarkupCompile.cache
+C:\Users\study\OneDrive\Рабочий стол\liza maket\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets_MarkupCompile.lref

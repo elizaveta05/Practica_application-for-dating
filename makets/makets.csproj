@@ -24,10 +24,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BD\BD.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Resource Include="assets\backgroundthree.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
