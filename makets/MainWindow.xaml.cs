@@ -48,7 +48,6 @@ namespace makets
                 // Извлекаем userId
                 if (responseData.TryGetProperty("userId", out var userIdElement) && userIdElement.TryGetInt32(out int userId))
                 {
-                    MessageBox.Show("Авторизация успешна!");
                     UserProfile window = new UserProfile(userId);
                     window.Show();
                     this.Close();

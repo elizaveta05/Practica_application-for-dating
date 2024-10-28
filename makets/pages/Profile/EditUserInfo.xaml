@@ -28,7 +28,7 @@
         </Grid>
 
         <Border   Grid.Row="2" CornerRadius="15" Background="#FF1A5A8C" Padding="4" Margin="292,0,300,0">
-            <Button Content="Перейти в профиль" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_Click"  Height="30" FontSize="20"/>
+            <Button Content="Перейти в профиль" Background="#FF1A5A8C" BorderBrush="Transparent" Foreground="White" Click="Button_ClickAsync"  Height="30" FontSize="20"/>
         </Border>
     </Grid>
 </Window>

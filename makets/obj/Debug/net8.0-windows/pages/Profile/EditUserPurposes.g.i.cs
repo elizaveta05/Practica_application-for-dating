@@ -61,7 +61,7 @@ namespace makets.pages.Profile {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/makets;component/pages/profile/edituserpurposes.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/makets;V1.0.0.0;component/pages/profile/edituserpurposes.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\pages\Profile\EditUserPurposes.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

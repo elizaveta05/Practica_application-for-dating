@@ -85,7 +85,7 @@ namespace makets.pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/makets;component/pages/registration/newuser.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/makets;V1.0.0.0;component/pages/registration/newuser.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\pages\Registration\NewUser.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
