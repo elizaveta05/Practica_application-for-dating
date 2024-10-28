@@ -19,9 +19,11 @@ namespace makets.pages.Profile
     /// </summary>
     public partial class EditUserInfo : Window
     {
-        public EditUserInfo()
+        private int userId;
+        public EditUserInfo(int userId)
         {
             InitializeComponent();
+            this.userId = userId;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

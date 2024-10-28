@@ -170,7 +170,7 @@ namespace makets.pages
         private async void Button_Click(object sender, RoutedEventArgs e) // Кнопка "Сохранить"
         {
             await SaveUserData();
-            EditUserTags editUserTags = new EditUserTags();
+            EditUserTags editUserTags = new EditUserTags(userId);
             editUserTags.Show();
             this.Close();
         }
