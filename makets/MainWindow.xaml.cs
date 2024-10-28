@@ -42,18 +42,20 @@ namespace makets
 
             if (response.IsSuccessStatusCode)
             {
-                var responseData = await response.Content.ReadFromJsonAsync<dynamic>();
-                MessageBox.Show("Авторизация успешна!");
-                int userId = responseData.userId;
-                if (userId.Equals(null))
+                // Используем JsonElement для чтения данных
+                var responseData = await response.Content.ReadFromJsonAsync<System.Text.Json.JsonElement>();
+
+                // Извлекаем userId
+                if (responseData.TryGetProperty("userId", out var userIdElement) && userIdElement.TryGetInt32(out int userId))
                 {
+                    MessageBox.Show("Авторизация успешна!");
                     UserProfile window = new UserProfile(userId);
                     window.Show();
                     this.Close();
                 }
                 else
                 {
-                    MessageBox.Show("Не удалось авторизоваться. Попробуйте еще раз.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("Не удалось получить ID пользователя.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
             else

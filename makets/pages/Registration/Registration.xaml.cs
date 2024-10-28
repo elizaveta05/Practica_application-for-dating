@@ -63,7 +63,7 @@ namespace makets.pages
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(user);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            var response = await _httpClient.PostAsync("Autho/register", content);
+            var response = await _httpClient.PostAsync("Registration/register", content);
 
             if (response.IsSuccessStatusCode)
             {

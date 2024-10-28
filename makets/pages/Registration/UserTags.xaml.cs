@@ -111,7 +111,7 @@ namespace makets.pages
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             // Отправляем на серверную часть в контроллер
-            var response = await _httpClient.PostAsync("Autho/saveUserTags", content);
+            var response = await _httpClient.PostAsync("Registration/saveUserTags", content);
 
             // Ответ от сервера
             if (response.IsSuccessStatusCode)

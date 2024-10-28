@@ -71,7 +71,9 @@ namespace makets.pages
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            EditDataUser editDataUser = new EditDataUser(userId);
+            editDataUser.Show();
+            this.Close();
         }
 
         private void Button1_Click(object sender, RoutedEventArgs e)

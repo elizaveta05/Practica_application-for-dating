@@ -48,7 +48,7 @@ namespace makets.pages
                 Description = description
             };
             // Отправляем POST запрос на сервер для сохранения цели
-            var response = await _httpClient.PostAsJsonAsync("Autho/saveUserDescription", request);
+            var response = await _httpClient.PostAsJsonAsync("Registration/saveUserDescription", request);
 
             if (response.IsSuccessStatusCode)
             {

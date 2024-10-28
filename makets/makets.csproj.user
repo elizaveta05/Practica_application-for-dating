@@ -7,25 +7,37 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="pages\NewUser.xaml.cs">
+    <Compile Update="pages\Profile\EditDataUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\Profile\EditUserInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\Profile\EditUserPurposes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\Profile\EditUserTags.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="pages\Registration\NewUser.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="pages\PasswordReset.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="pages\Registration.xaml.cs">
+    <Compile Update="pages\Registration\Registration.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="pages\UserInfo.xaml.cs">
+    <Compile Update="pages\Registration\UserInfo.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="pages\UserProfile.xaml.cs">
+    <Compile Update="pages\Profile\UserProfile.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="pages\UserPurposes.xaml.cs">
+    <Compile Update="pages\Registration\UserPurposes.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="pages\UserTags.xaml.cs">
+    <Compile Update="pages\Registration\UserTags.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="pages\WelcomePagexaml.xaml.cs">
@@ -36,25 +48,37 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\NewUser.xaml">
+    <Page Update="pages\Profile\EditDataUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Profile\EditUserInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Profile\EditUserPurposes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Profile\EditUserTags.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Registration\NewUser.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\PasswordReset.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\Registration.xaml">
+    <Page Update="pages\Registration\Registration.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\UserInfo.xaml">
+    <Page Update="pages\Registration\UserInfo.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\UserProfile.xaml">
+    <Page Update="pages\Profile\UserProfile.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\UserPurposes.xaml">
+    <Page Update="pages\Registration\UserPurposes.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="pages\UserTags.xaml">
+    <Page Update="pages\Registration\UserTags.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\WelcomePagexaml.xaml">

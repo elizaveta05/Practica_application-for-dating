@@ -89,7 +89,7 @@ namespace makets.pages
             };
 
             // Отправляем POST запрос на сервер для сохранения цели
-            var response = await _httpClient.PostAsJsonAsync("Autho/saveUserGoal", request);
+            var response = await _httpClient.PostAsJsonAsync("Registration/saveUserGoal", request);
 
             if (response.IsSuccessStatusCode)
             {
