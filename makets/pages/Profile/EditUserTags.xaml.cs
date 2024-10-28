@@ -165,7 +165,7 @@ namespace makets.pages.Profile
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
             await SaveUserTagsAsync();
-            EditUserInfo editUserInfo = new EditUserInfo(userId);
+            EditUserPurposes editUserInfo = new EditUserPurposes(userId);
             editUserInfo.Show();
             this.Close();
         }

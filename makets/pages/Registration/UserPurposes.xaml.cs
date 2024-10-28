@@ -96,8 +96,8 @@ namespace makets.pages
                 var resultContent = await response.Content.ReadAsStringAsync();
                 var result = JsonConvert.DeserializeObject<dynamic>(resultContent);
 
-                // Проверяем, что сообщение от сервера содержит "Пользовательские теги сохранены."
-                if (result?.message == "Пользовательские теги сохранены.")
+                // Проверяем, что сообщение от сервера содержит 
+                if (result?.message == "Цель пользователя сохранена.")
                 {
                     UserInfo userInfo = new UserInfo(userId);
                     userInfo.Show();
