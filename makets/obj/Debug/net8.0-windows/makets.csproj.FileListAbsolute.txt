@@ -204,3 +204,4 @@ C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net
 C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets.csproj.Up2Date
 C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\makets.genruntimeconfig.cache
 C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\ref\makets.dll
+C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\bin\Debug\net8.0-windows\QRCoder.dll

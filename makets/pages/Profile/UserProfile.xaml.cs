@@ -5,6 +5,9 @@ using System.Net.Http.Json;
 using System.Text;
 using System.Windows;
 using System.Windows.Media.Imaging;
+using QRCoder;
+using System.IO;
+using Microsoft.Win32;
 
 namespace makets.pages
 {
@@ -26,15 +29,12 @@ namespace makets.pages
 
         private async void LoadData(int userId)
         {
-            //Конвентируем данные перед отправкой
-            var json = Newtonsoft.Json.JsonConvert.SerializeObject(userId);
+            var json = JsonConvert.SerializeObject(userId);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
-            //Отправляем на серверную часть в контроллер
             var response = await _httpClient.PostAsync("Profile/getProfileUser", content);
 
             if (response.IsSuccessStatusCode)
             {
-                // Чтение и парсинг ответа
                 var resultContent = await response.Content.ReadAsStringAsync();
                 var userData = JsonConvert.DeserializeObject<UserProfileData>(resultContent);
 
@@ -45,16 +45,12 @@ namespace makets.pages
                     CityLabel.Content = $"г. {userData.City ?? "Не указано"}";
                     GenderLabel.Content = userData.Gender ?? "Не указано";
 
-                    // Настройка изображения на основе пола
-                    GenderFoto.Source = userData.Gender == "Мужской" ?
-                        new BitmapImage(new Uri("/assets/man.png", UriKind.Relative)) :
-                        new BitmapImage(new Uri("/assets/woman.png", UriKind.Relative));
+                    await LoadUserProfilePhoto(userId, userData.Gender);
                 }
                 else
                 {
                     MessageBox.Show("Данные профиля пользователя не загружаются.");
                 }
-
             }
             else
             {
@@ -62,12 +58,44 @@ namespace makets.pages
             }
         }
 
-        private void ChatsTextBlock_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        private byte[] LoadDefaultImage(string gender)
         {
-            // Открытие следующего окна
-            //var chatsWindow = new ChatsWindow(); 
-            //chatsWindow.Show();
+            string imagePath = gender == "Мужской" ? "C:/Users/elozo/Source/Repos/Practica_application-for-dating/makets/assets/man.png" :
+                                                       "C:/Users/elozo/Source/Repos/Practica_application-for-dating/makets/assets/woman.png";
+
+            return File.ReadAllBytes(imagePath);
         }
+
+        private async Task LoadUserProfilePhoto(int userId, string gender)
+        {
+            var response = await _httpClient.GetAsync($"Profile/getUserPhotoProfile/{userId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                var resultContent = await response.Content.ReadAsStringAsync();
+
+                if (resultContent.Contains("Фотография профиля не найдена"))
+                {
+                    byte[] defaultPhotoBytes = LoadDefaultImage(gender);
+                    Foto.Source = ByteArrayToImage(defaultPhotoBytes);
+                }
+                else
+                {
+                    var photoData = Convert.FromBase64String(resultContent);
+                    Foto.Source = ByteArrayToImage(photoData);
+                }
+            }
+            else
+            {
+                byte[] defaultPhotoBytes = LoadDefaultImage(gender);
+                if (defaultPhotoBytes != null)
+                {
+                    Foto.Source = ByteArrayToImage(defaultPhotoBytes);
+                }
+            }
+        }
+
+        private void ChatsTextBlock_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e) { }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -76,9 +104,56 @@ namespace makets.pages
             this.Close();
         }
 
-        private void Button1_Click(object sender, RoutedEventArgs e)
+        private async void Button1_Click(object sender, RoutedEventArgs e)
         {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Filter = "Image Files|*.jpg;*.jpeg;*.png;*.bmp"
+            };
 
+            if (openFileDialog.ShowDialog() == true)
+            {
+                byte[] photoBytes;
+                using (var stream = new FileStream(openFileDialog.FileName, FileMode.Open, FileAccess.Read))
+                {
+                    photoBytes = new byte[stream.Length];
+                    await stream.ReadAsync(photoBytes, 0, photoBytes.Length);
+                }
+
+                await UploadProfilePhoto(photoBytes);
+            }
+        }
+
+        private async Task UploadProfilePhoto(byte[] photoBytes)
+        {
+            var photoData = Convert.ToBase64String(photoBytes);
+            var content = new StringContent(JsonConvert.SerializeObject(new { UserId = userId, Photo = photoData }), Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PostAsync("Profile/postUserPhotoProfile", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                Foto.Source = ByteArrayToImage(photoBytes);
+                MessageBox.Show("Фото профиля обновлено успешно.");
+            }
+            else
+            {
+                MessageBox.Show("Ошибка при загрузке фото профиля.");
+            }
+        }
+
+        private BitmapImage ByteArrayToImage(byte[] imageData)
+        {
+            BitmapImage image = new BitmapImage();
+            using (var memory = new MemoryStream(imageData))
+            {
+                memory.Position = 0;
+                image.BeginInit();
+                image.StreamSource = memory;
+                image.CacheOption = BitmapCacheOption.OnLoad;
+                image.EndInit();
+            }
+            return image;
         }
     }
 }

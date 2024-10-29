@@ -52,7 +52,7 @@
 
         <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Профиль" FontSize="25" FontWeight="Bold" FontFamily="Segoe Script" Foreground="#FF5683AB"/>
 
-        <Image x:Name="GenderFoto" Source="/assets/woman.png" Grid.Row="1" Grid.Column="0" Width="200" Height="200" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,10,0,0"/>
+        <Image x:Name="Foto" Source="/assets/woman.png" Grid.Row="1" Grid.Column="0" Height="145" VerticalAlignment="Top" Margin="10,10,13,0"/>
 
         <Button Content="Изменить профиль" Grid.Row="2" Grid.Column="0" Height="30" VerticalAlignment="Top" Background="#FF85ADD1" FontSize="15" FontWeight="Bold" Foreground="#FF2B517E" BorderThickness="0" Click="Button_Click"/>
         <Button Content="Добавить фото профиля" Grid.Row="2" Grid.Column="0" Height="30" VerticalAlignment="Top" Background="#FF85ADD1" FontSize="15" FontWeight="Bold" Foreground="#FF2B517E" BorderThickness="0" Click="Button1_Click" Margin="0,40,0,0"/>
