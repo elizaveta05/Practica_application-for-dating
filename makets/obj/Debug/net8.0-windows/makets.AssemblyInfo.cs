@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("makets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4f6b932a584ffd9acb0f0820faafe8eee696858")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+773dc436e0233f4588aef032d88da5fa962c122b")]
 [assembly: System.Reflection.AssemblyProductAttribute("makets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("makets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
