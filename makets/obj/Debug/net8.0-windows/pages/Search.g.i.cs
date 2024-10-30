@@ -101,7 +101,7 @@ namespace makets.pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/makets;component/pages/search.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/makets;V1.0.0.0;component/pages/search.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\pages\Search.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

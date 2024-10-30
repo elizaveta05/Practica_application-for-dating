@@ -69,7 +69,7 @@ namespace makets.pages.Profile {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/makets;component/pages/profile/editusertags.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/makets;V1.0.0.0;component/pages/profile/editusertags.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\pages\Profile\EditUserTags.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
