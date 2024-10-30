@@ -218,3 +218,5 @@ D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Registration\UserInfo.bam
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Registration\UserPurposes.baml
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Registration\UserTags.baml
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Search.baml
+D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Chat.g.cs
+D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Chat.baml

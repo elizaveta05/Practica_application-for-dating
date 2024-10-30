@@ -15,19 +15,13 @@ using System.Windows.Shapes;
 namespace makets.pages
 {
     /// <summary>
-    /// Логика взаимодействия для Search.xaml
+    /// Логика взаимодействия для Chat.xaml
     /// </summary>
-    public partial class Search : Window
+    public partial class Chat : Window
     {
-        public Search()
+        public Chat()
         {
             InitializeComponent();
-        }
-
-        private void GoToChatBtn_Click(object sender, RoutedEventArgs e)
-        {
-            new Chat()
-                .Show();
         }
     }
 }

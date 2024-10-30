@@ -70,7 +70,7 @@ namespace makets.pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/makets;V1.0.0.0;component/pages/welcomepagexaml.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/makets;component/pages/welcomepagexaml.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\pages\WelcomePagexaml.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

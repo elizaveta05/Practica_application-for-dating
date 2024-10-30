@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\course\makets\makets\App.xaml
-14-1289771137
+152115478157
 
-36-1938139285
+37-2017699845
 203430763793
-MainWindow.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\Search.xaml;pages\WelcomePagexaml.xaml;
+MainWindow.xaml;pages\Chat.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\Search.xaml;pages\WelcomePagexaml.xaml;
 
 False
 
