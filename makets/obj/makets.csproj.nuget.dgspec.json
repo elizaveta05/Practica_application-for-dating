@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\makets.csproj": {}
+    "D:\\course\\makets\\makets\\makets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\makets.csproj": {
+    "D:\\course\\makets\\makets\\makets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\makets.csproj",
+        "projectUniqueName": "D:\\course\\makets\\makets\\makets.csproj",
         "projectName": "makets",
-        "projectPath": "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\makets.csproj",
-        "packagesPath": "C:\\Users\\elozo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\obj\\",
+        "projectPath": "D:\\course\\makets\\makets\\makets.csproj",
+        "packagesPath": "C:\\Users\\socia\\.nuget\\packages\\",
+        "outputPath": "D:\\course\\makets\\makets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\elozo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\socia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,7 +90,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

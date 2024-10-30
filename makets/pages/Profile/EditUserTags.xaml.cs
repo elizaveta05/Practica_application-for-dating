@@ -27,7 +27,10 @@ namespace makets.pages.Profile
         public EditUserTags(int userId)
         {
             InitializeComponent();
-            _httpClient = new HttpClient
+            _httpClient = new HttpClient(new HttpClientHandler
+            {
+                ServerCertificateCustomValidationCallback = (msg, cert, chain, param) => true
+            })
             {
                 BaseAddress = new Uri("https://localhost:7036/api/")
             };

@@ -1,0 +1,116 @@
+﻿<Window x:Class="makets.pages.Search"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:makets.pages"
+        mc:Ignorable="d"
+        Title="Search" Height="450" Width="800">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFBFE5F0"/>
+            <GradientStop Color="#FFF3C5EE" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Window.Resources>
+        <ControlTemplate x:Key="TextBoxBaseControlTemplate" TargetType="{x:Type TextBoxBase}">
+            <Border Background="{TemplateBinding Background}"
+    x:Name="Bd" BorderBrush="Black"
+    BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                <ScrollViewer x:Name="PART_ContentHost"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" TargetName="Bd"/>
+                    <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+                </Trigger>
+                <Trigger Property="Width" Value="Auto">
+                    <Setter Property="MinWidth" Value="100"/>
+                </Trigger>
+                <Trigger Property="Height" Value="Auto">
+                    <Setter Property="MinHeight" Value="20"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="370"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Column="1"
+                BorderBrush="Purple"
+                BorderThickness="1"
+                CornerRadius="15"
+                Height="350"
+                Width="300"
+                Padding="5">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                    <TextBlock x:Name="Username" 
+                               TextAlignment="Center"
+                               Text="Put Username Here."
+                               FontFamily="Roboto"
+                               FontSize="20"
+                               FontWeight="Bold"
+                               Foreground="#FF1A5A8C"/>
+                </StackPanel>
+
+                <Border Grid.Row="1" 
+                        Margin="10"
+                        Background="White"
+                        CornerRadius="15"
+                        Padding="10">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="120"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Border Width="90"
+                                Height="90"
+                                BorderThickness="1"
+                                BorderBrush="Black"
+                                CornerRadius="15">
+                            <Image x:Name="UserAvatar"/>
+                        </Border>
+                        <TextBlock Grid.Row="1" 
+                                   x:Name="AboutUser"
+                                   Foreground="Black"
+                                   TextAlignment="Left"
+                                   FontSize="15"
+                                   FontFamily="Roboto"
+                                   TextWrapping="WrapWithOverflow">
+                                   Информация обо мне. Сюда можно запихать и возраст след. строкой просто через интерполяцию <LineBreak/> Возраст: 150 лет.
+
+                        </TextBlock>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Border>
+        <StackPanel Grid.Row="1"
+                    Grid.Column="1"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
+                <Button x:Name="SkipBtn" Content="Пропустить" Background="Transparent" Foreground="White"/>
+            </Border>
+            <Separator Opacity="0" Width="120"/>
+            <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
+                <Button x:Name="LikeBtn" Content="Лайкнуть" Background="Transparent" Foreground="White"/>
+            </Border>
+
+        </StackPanel>
+    </Grid>
+</Window>
