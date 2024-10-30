@@ -45,6 +45,20 @@
             <RowDefinition Height="370"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="2"
+                    Grid.Row="1"
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <Image/>
+            <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
+                <Button x:Name="GoToChatBtn" Content="Чаты" Background="Transparent" Foreground="White" Click="GoToChatBtn_Click"/>
+            </Border>
+        </StackPanel>
+
+
+
         <Border Grid.Column="1"
                 BorderBrush="Purple"
                 BorderThickness="1"

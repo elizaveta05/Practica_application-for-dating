@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "D:\\course\\makets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\search.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\search.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|d:\\course\\makets\\makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|D:\\course\\makets\\makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -121,7 +133,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,28 +141,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditUserTags.xaml.cs",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwB8AAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Search.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\Search.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:10:32.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserProfile.xaml.cs",
-              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml.cs",
-              "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:09:59.636Z",
+              "WhenOpened": "2024-10-30T07:54:18.139Z",
               "EditorCaption": ""
             },
             {
@@ -187,18 +186,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AQIAAPMBAAAAAAAAAAAYwP4BAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:09:43.957Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+              "DocumentIndex": 0,
+              "Title": "Chat.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Chat.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\Chat.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Chat.xaml",
+              "RelativeToolTip": "makets\\pages\\Chat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T07:41:45.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Search.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Search.xaml",
+              "RelativeToolTip": "makets\\pages\\Search.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T07:43:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\App.xaml",
               "RelativeDocumentMoniker": "makets\\App.xaml",
@@ -210,31 +222,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "EditUserTags.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:10:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.xaml.cs",
+              "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:09:59.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAPMBAAAAAAAAAAAYwP4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:09:43.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserProfile.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml",
               "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\UserProfile.xaml",
               "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:08:51.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T07:08:51.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EditUserTags.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Profile\\EditUserTags.xaml",
               "ToolTip": "D:\\course\\makets\\makets\\pages\\Profile\\EditUserTags.xaml",
               "RelativeToolTip": "makets\\pages\\Profile\\EditUserTags.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:08:49.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T07:08:49.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "MailSender.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\EmailSender\\MailSender.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\MailSender.cs",
@@ -246,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml",
@@ -257,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IMailSender.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\EmailSender\\IMailSender.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\IMailSender.cs",
@@ -269,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml.cs",
@@ -281,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PasswordReset.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml",
@@ -292,17 +336,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserProfile.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T09:23:04.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:23:04.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "EnumExtension.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\EmailSender\\EnumExtension.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\EnumExtension.cs",
@@ -314,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SMTPEnum.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
@@ -326,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "SmtpCredentials.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\EmailSender\\SmtpCredentials.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\SmtpCredentials.cs",
@@ -338,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "PasswordReset.xaml.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml.cs",
@@ -350,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Registration.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
@@ -359,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "NewUser.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
@@ -368,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "WelcomePagexaml.xaml",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\WelcomePagexaml.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml",
@@ -379,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "UserTags.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
@@ -388,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ColorHelper.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\ColorHelper.cs",
               "RelativeDocumentMoniker": "makets\\helper\\ColorHelper.cs",
@@ -400,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "WelcomePagexaml.xaml.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml.cs",
@@ -412,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "NewUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
@@ -422,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UserInfoSaver.cs",
               "DocumentMoniker": "D:\\course\\makets\\makets\\helper\\UserInfoSaver.cs",
               "RelativeDocumentMoniker": "makets\\helper\\UserInfoSaver.cs",
@@ -434,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "UserInfo.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
@@ -444,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "UserProfile.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
@@ -454,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "UserPurposes.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
@@ -464,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "UserPurposes.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
@@ -473,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "UserTags.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
@@ -483,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "UserInfo.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
@@ -492,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Registration.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
