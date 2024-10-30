@@ -52,13 +52,17 @@
 
         <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Профиль" FontSize="25" FontWeight="Bold" FontFamily="Segoe Script" Foreground="#FF5683AB"/>
 
+        
+        
         <Image x:Name="Foto" Source="/assets/icon.jpeg" Grid.Row="1" Grid.Column="0" Height="145" VerticalAlignment="Top" Margin="10,10,13,0"/>
 
         <Button Content="Изменить профиль" Grid.Row="2" Grid.Column="0" Height="30" VerticalAlignment="Top" Background="#FF85ADD1" FontSize="15" FontWeight="Bold" Foreground="#FF2B517E" BorderThickness="0" Click="Button_Click"/>
         <Button Content="Добавить фото профиля" Grid.Row="2" Grid.Column="0" Height="30" VerticalAlignment="Top" Background="#FF85ADD1" FontSize="15" FontWeight="Bold" Foreground="#FF2B517E" BorderThickness="0" Click="Button1_Click" Margin="0,40,0,0"/>
-
+        <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Профиль" FontSize="25" FontWeight="Bold" FontFamily="Segoe Script" Foreground="#FF5683AB"/>
         <TextBlock Text="Чаты" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/>
-        <TextBlock Text="Найти собеседника" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/>
+        <TextBlock Text="Найти собеседника" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/><TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Профиль" FontSize="25" FontWeight="Bold" FontFamily="Segoe Script" Foreground="#FF5683AB"/>
+<TextBlock Text="Чаты" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/>
+<TextBlock Text="Найти собеседника" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/>
         <StackPanel Grid.Row="1" Grid.Column="1" Height="180" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Center">
             <Label x:Name="NameLabel" Content="*ФИО*" FontSize="20"/>
             <Label x:Name="AgeLabel" Content="*Возраст*" FontSize="20"/>

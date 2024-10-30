@@ -6,14 +6,51 @@
         xmlns:local="clr-namespace:makets.pages"
         mc:Ignorable="d"
         Title="Chat" Height="450" Width="800">
+
+    <Window.Resources>
+        <Style x:Key="HoverTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="#FF2B517E"/>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="FontSize" To="22" Duration="0:0:0.2"/>
+                            <ColorAnimation Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" To="#FF5683AB" Duration="0:0:0.2"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="FontSize" To="20" Duration="0:0:0.2"/>
+                            <ColorAnimation Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" To="#FF2B517E" Duration="0:0:0.2"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="300"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    Grid.Column="1" 
+                    Orientation="Horizontal">
+            <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Профиль" FontSize="25" FontWeight="Bold" FontFamily="Segoe Script" Foreground="#FF5683AB" Margin="0 0 15 0"/>
+            <TextBlock Text="Чаты" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown" Margin="0 0 15 0"/>
+            <TextBlock Text="Найти собеседника" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="#FF2B517E" Style="{StaticResource HoverTextBlockStyle}" MouseLeftButtonDown="ChatsTextBlock_MouseLeftButtonDown"/>
+        </StackPanel>
 
         <!-- Левая панель: список чатов -->
-        <StackPanel Grid.Column="0" Background="#F5F5F5">
+        <StackPanel Grid.Row="1" Grid.Column="0" Background="#F5F5F5">
             <Border CornerRadius="5" Margin="10">
                 <TextBox Width="280" Height="30" VerticalAlignment="Top" Text="Поиск" FontFamily="Comic Sans MS"/>
             </Border>
@@ -36,7 +73,7 @@
         </StackPanel>
 
         <!-- Правая панель: окно чата -->
-        <Grid Grid.Column="1" Background="White">
+        <Grid Grid.Row="1" Grid.Column="1" Background="White">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
