@@ -84,9 +84,6 @@
                     VerticalAlignment="Center"
                     HorizontalAlignment="Center">
             <Image/>
-            <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
-                <Button x:Name="GoToChatBtn" Content="Чаты" Background="Transparent" Foreground="White" Click="GoToChatBtn_Click"/>
-            </Border>
         </StackPanel>
 
 

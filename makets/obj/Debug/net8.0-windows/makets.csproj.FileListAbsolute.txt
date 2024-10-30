@@ -220,3 +220,7 @@ D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Registration\UserTags.bam
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Search.baml
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Chat.g.cs
 D:\course\makets\makets\obj\Debug\net8.0-windows\pages\Chat.baml
+C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\Chat.g.cs
+C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\Search.g.cs
+C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\Chat.baml
+C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\pages\Search.baml

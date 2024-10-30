@@ -24,10 +24,30 @@ namespace makets.pages
             InitializeComponent();
         }
 
-        private void GoToChatBtn_Click(object sender, RoutedEventArgs e)
+        private void ChatsTextBlock_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            new Chat()
-                .Show();
+            TextBlock clickedTextBlock = sender as TextBlock;
+
+            if (clickedTextBlock != null)
+            {
+                switch (clickedTextBlock.Text)
+                {
+                    /*
+                    case "Чаты":
+                        Chat chat = new Chat(userId);
+                        chat.Show();
+                        this.Close();
+                        break;
+
+                    case "Найти собеседника":
+                        Search search = new Search();
+                        search.Show();
+                        this.Close();
+                        break;
+                    */
+                }
+            }
+
         }
     }
 }

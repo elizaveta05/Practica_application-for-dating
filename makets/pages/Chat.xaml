@@ -59,11 +59,11 @@
                     <DataTemplate>
                         <Border CornerRadius="10" Margin="5">
                             <StackPanel Orientation="Horizontal">
-                                <Image Width="50" Height="50" Margin="5" Source="{Binding Avatar}"/>
+                                <Image Width="50" Height="50" Margin="5" Source="{Binding ProfileImage}"/>
                                 <StackPanel>
-                                    <TextBlock Text="{Binding UserName}" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                                    <TextBlock Text="{Binding OtherUser.Name}" FontWeight="Bold" FontFamily="Comic Sans MS"/>
                                     <TextBlock Text="{Binding LastMessage}" FontFamily="Comic Sans MS"/>
-                                    <TextBlock Text="{Binding LastMessageTimestamp, StringFormat={}{0:dd/MM/yyyy HH:mm}}" FontFamily="Comic Sans MS" FontSize="10" Foreground="Gray"/>
+                                    <TextBlock Text="{Binding ChatCreated, StringFormat={}{0:dd/MM/yyyy HH:mm}}" FontFamily="Comic Sans MS" FontSize="10" Foreground="Gray"/>
                                 </StackPanel>
                             </StackPanel>
                         </Border>

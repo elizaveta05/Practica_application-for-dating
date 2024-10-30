@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\
+C:\Users\elozo\source\repos\Practica_application-for-dating\makets\obj\Debug\net8.0-windows\
 makets
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\App.xaml
-14-1289771137
+C:\Users\elozo\source\repos\Practica_application-for-dating\makets\App.xaml
+152115478157
 
-38-1374193028
+411293273729
 2031516858397
-MainWindow.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\Search.xaml;pages\WelcomePagexaml.xaml;
+MainWindow.xaml;pages\Chat.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\Search.xaml;pages\WelcomePagexaml.xaml;
 
 False
 

@@ -8,6 +8,8 @@ using System.Windows.Media.Imaging;
 using QRCoder;
 using System.IO;
 using Microsoft.Win32;
+using System.Windows.Controls;
+using System.Windows.Input;
 
 namespace makets.pages
 {
@@ -95,8 +97,6 @@ namespace makets.pages
             }
         }
 
-        private void ChatsTextBlock_MouseLeftButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e) { }
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             EditDataUser editDataUser = new EditDataUser(userId);
@@ -155,5 +155,28 @@ namespace makets.pages
             }
             return image;
         }
+        private void ChatsTextBlock_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            TextBlock clickedTextBlock = sender as TextBlock;
+
+            if (clickedTextBlock != null)
+            {
+                switch (clickedTextBlock.Text)
+                {
+                    case "Чаты":
+                        Chat chat = new Chat(userId);
+                        chat.Show();
+                        this.Close();
+                        break;
+
+                    case "Найти собеседника":
+                        Search search = new Search();
+                        search.Show();
+                        this.Close();
+                        break;
+                }
+            }
+        }
+
     }
 }
