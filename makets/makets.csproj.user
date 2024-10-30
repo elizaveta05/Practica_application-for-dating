@@ -40,6 +40,9 @@
     <Compile Update="pages\Registration\UserTags.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="pages\Search.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="pages\WelcomePagexaml.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -79,6 +82,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\Registration\UserTags.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="pages\Search.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="pages\WelcomePagexaml.xaml">

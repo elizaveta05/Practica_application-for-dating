@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\elozo\Source\Repos\Practica_application-for-dating\makets\App.xaml
-13886797941
+14-1289771137
 
-37-721034388
+38-1374193028
 2031516858397
-MainWindow.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\WelcomePagexaml.xaml;
+MainWindow.xaml;pages\PasswordReset.xaml;pages\Profile\EditDataUser.xaml;pages\Profile\EditUserInfo.xaml;pages\Profile\EditUserPurposes.xaml;pages\Profile\EditUserTags.xaml;pages\Profile\UserProfile.xaml;pages\Registration\NewUser.xaml;pages\Registration\Registration.xaml;pages\Registration\UserInfo.xaml;pages\Registration\UserPurposes.xaml;pages\Registration\UserTags.xaml;pages\Search.xaml;pages\WelcomePagexaml.xaml;
 
-True
+False
 
