@@ -10,6 +10,7 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Net.WebSockets;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -28,7 +29,7 @@ namespace makets.pages
         private DateTime _lastMessageTimestamp;
         private DispatcherTimer _messagePollingTimer;
         private readonly ClientWebSocket _webSocket = new ClientWebSocket();
-
+        private CancellationTokenSource _cancellationTokenSource;
         public Chat(int userId)
         {
             InitializeComponent();
@@ -45,8 +46,55 @@ namespace makets.pages
             if (userId > 0)
             {
                 LoadUserChats(userId);
-                InitializeMessagePolling(); // Инициализация таймера для проверки новых сообщений
+                InitializeWebSocket(); // Инициализация WebSocket
             }
+        }
+        private async void InitializeWebSocket()
+        {
+            try
+            {
+                // Подключаемся к WebSocket-серверу
+                await _webSocket.ConnectAsync(new Uri($"wss://localhost:7036/api/chat/connect/{_currentUserId}"), CancellationToken.None);
+
+                _cancellationTokenSource = new CancellationTokenSource();
+                _ = ReceiveMessagesAsync(_cancellationTokenSource.Token); // Запускаем получение сообщений
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка подключения WebSocket: {ex.Message}");
+            }
+        }
+
+        private async Task ReceiveMessagesAsync(CancellationToken token)
+        {
+            var buffer = new byte[1024 * 4];
+            while (_webSocket.State == WebSocketState.Open && !token.IsCancellationRequested)
+            {
+                var result = await _webSocket.ReceiveAsync(new ArraySegment<byte>(buffer), token);
+
+                if (result.MessageType == WebSocketMessageType.Close)
+                {
+                    await _webSocket.CloseAsync(WebSocketCloseStatus.NormalClosure, "Закрытие соединения", token);
+                }
+                else
+                {
+                    var messageJson = Encoding.UTF8.GetString(buffer, 0, result.Count);
+                    var newMessage = JsonConvert.DeserializeObject<Message>(messageJson);
+
+                    // Добавляем новое сообщение в коллекцию и обновляем интерфейс
+                    if (newMessage != null && newMessage.ChatId == _selectedChat && newMessage.UserSendingId != _currentUserId)
+                    {
+                        _messages.Add(newMessage);
+                        Dispatcher.Invoke(DisplayMessages);
+                    }
+                }
+            }
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            _cancellationTokenSource?.Cancel();
+            _webSocket?.Dispose();
         }
         private void ChatsTextBlock_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
@@ -203,7 +251,7 @@ namespace makets.pages
                 TimeCreated = DateTime.UtcNow
             };
 
-            var json = Newtonsoft.Json.JsonConvert.SerializeObject(newMessage);
+            var json = JsonConvert.SerializeObject(newMessage);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             try
@@ -211,21 +259,29 @@ namespace makets.pages
                 var response = await _httpClient.PostAsync("Chat/send", content);
                 if (response.IsSuccessStatusCode)
                 {
-                    // Чтение и парсинг ответа
                     var resultContent = await response.Content.ReadAsStringAsync();
                     var sentMessage = JsonConvert.DeserializeObject<Message>(resultContent);
 
                     if (sentMessage != null)
                     {
+                        // Добавляем сообщение в список сообщений
                         _messages.Add(sentMessage);
                         _lastMessageTimestamp = sentMessage.TimeCreated;
                         DisplayMessages();
+
+                        // Обновляем последнее сообщение в списке чатов
+                        var chat = _chatList.FirstOrDefault(c => c.ChatId == _selectedChat);
+                        if (chat != null)
+                        {
+                            chat.LastMessage = $"{sentMessage.MessageText} ({sentMessage.TimeCreated:dd/MM/yyyy HH:mm})";
+                        }
+
+                        // Очищаем текстовое поле после отправки
                         MessageTextBox.Text = string.Empty;
                     }
                 }
                 else
                 {
-                    // Выводим ответ сервера
                     var errorContent = await response.Content.ReadAsStringAsync();
                     MessageBox.Show($"Ошибка при отправке сообщения: {response.StatusCode} - {errorContent}");
                 }
