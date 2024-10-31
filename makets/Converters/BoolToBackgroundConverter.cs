@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Data;
 using System.Windows.Media;
 
@@ -15,11 +11,11 @@ namespace ClientChat.Converters
         {
             if (value is bool boolValue && boolValue)
             {
-                return Brushes.LightGreen; // Здесь нужно указать цвет фона для исходящих сообщений
+                return Brushes.Fuchsia; // Цвет фона для исходящих сообщений
             }
             else
             {
-                return Brushes.White; // Здесь нужно указать цвет фона для входящих сообщений
+                return Brushes.LightBlue; // Цвет фона для входящих сообщений
             }
         }
 

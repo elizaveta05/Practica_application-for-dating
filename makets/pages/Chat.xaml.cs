@@ -172,6 +172,7 @@ namespace makets.pages
                     if (messages != null)
                     {
                         _messages = messages;
+                        //SelectedUserName.Text = _selectedUser.UserName;
                         _lastMessageTimestamp = _messages.LastOrDefault()?.TimeCreated ?? DateTime.MinValue;
                         SelectChatMessage.Visibility = Visibility.Collapsed;
                         MessageInputPanel.Visibility = Visibility.Visible;
@@ -330,6 +331,11 @@ namespace makets.pages
                     MessageBox.Show($"Ошибка при загрузке сообщений: {response.StatusCode} - {errorContent}");
                 }
             }
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
 
         public class ChatResponse
