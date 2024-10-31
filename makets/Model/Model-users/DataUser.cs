@@ -27,5 +27,8 @@ namespace makets.Model.Model_users
 
         [Required(ErrorMessage = "ID пользователя обязателен.")]
         public int UdrId { get; set; }
+
+        public string Name => $"{LastName} {FirstName}";
+
     }
 }

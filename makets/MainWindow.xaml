@@ -76,7 +76,7 @@
                             </Border>
                             <StackPanel Orientation="Horizontal" Margin="0 3 0 0">
                                 <Label Content="Забыли пароль?" x:Name="ForgotPwdBtn" MouseUp="ForgotPwdBtn_MouseUp" Margin="0 0 10 0"/>
-                                <Label Content="Регистрация" Margin="24 0 0 0"/>
+                            <Label Content="Регистрация" MouseUp="ForgotPwdBtn1_MouseUp" Margin="24 0 0 0"/>
                             </StackPanel>
                         </StackPanel>
                     </Border>

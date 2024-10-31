@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNJwNrDdDsM=",
+  "dgSpecHash": "9P8HH6YaFNU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\makets.csproj",
+  "projectFilePath": "C:\\Users\\elozo\\Source\\Repos\\Practica_application-for-dating\\makets\\makets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elozo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\elozo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

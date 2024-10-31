@@ -66,7 +66,16 @@ namespace makets
 
         private void ForgotPwdBtn_MouseUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
+            PasswordReset window = new PasswordReset();
+            window.Show();
+            this.Close();
+        }
 
+        private void ForgotPwdBtn1_MouseUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+           Registration window = new Registration();
+            window.Show();
+            this.Close();
         }
     }
 }
