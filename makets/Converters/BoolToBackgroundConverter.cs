@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows.Data;
 using System.Windows.Media;
 
-namespace ClientChat.Converters
+namespace makets.Converters
 {
     public class BoolToBackgroundConverter : IValueConverter
     {
@@ -11,11 +11,13 @@ namespace ClientChat.Converters
         {
             if (value is bool boolValue && boolValue)
             {
-                return Brushes.Fuchsia; // Цвет фона для исходящих сообщений
+                // Цвет фона для исходящих сообщений (светло-фиолетовый)
+                return new SolidColorBrush(Color.FromArgb(255, 200, 180, 250)); // Мягкий светло-фиолетовый
             }
             else
             {
-                return Brushes.LightBlue; // Цвет фона для входящих сообщений
+                // Цвет фона для входящих сообщений (светлый синий)
+                return new SolidColorBrush(Color.FromArgb(255, 191, 229, 240)); // Цвет для входящих сообщений
             }
         }
 

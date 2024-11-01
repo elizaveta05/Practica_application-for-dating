@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Data;
 using System.Windows;
 
-namespace ClientChat.Converters
+namespace makets.Converters
 {
     public class BoolToHorizontalAlignmentConverter : IValueConverter
     {

@@ -17,6 +17,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Threading;
+using System.Xml.Linq;
 
 namespace makets.pages
 {
@@ -26,10 +27,12 @@ namespace makets.pages
         private int _currentUserId, _selectedChat;
         private readonly ObservableCollection<ChatInfo> _chatList = new ObservableCollection<ChatInfo>();
         private ObservableCollection<Message> _messages = new ObservableCollection<Message>();
+        private ObservableCollection<UserInfo> _searchResults = new ObservableCollection<UserInfo>(); // Список результатов поиска
         private DateTime _lastMessageTimestamp;
         private DispatcherTimer _messagePollingTimer;
         private readonly ClientWebSocket _webSocket = new ClientWebSocket();
         private CancellationTokenSource _cancellationTokenSource;
+        private List<String> userNameList = new List<String>();
         public Chat(int userId)
         {
             InitializeComponent();
@@ -118,6 +121,35 @@ namespace makets.pages
                 }
             }
         }
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            string searchText = (sender as TextBox)?.Text?.ToLower();
+
+            // Убедитесь, что _chatList не null и имеет элементы
+            if (_chatList != null && _chatList.Any())
+            {
+                if (!string.IsNullOrWhiteSpace(searchText) && searchText != "поиск")
+                {
+                    // Фильтрация списка чатов по введенному тексту
+                    var filteredChats = _chatList.Where(chat =>
+                        chat.OtherUser != null && chat.OtherUser.Name.ToLower().Contains(searchText)
+                    ).ToList();
+
+                    // Отображение отфильтрованных чатов
+                    ChatListBox.ItemsSource = filteredChats.Count > 0
+                        ? new ObservableCollection<ChatInfo>(filteredChats)
+                        : new ObservableCollection<ChatInfo>(); // Пустая коллекция, если ничего не найдено
+                }
+                else
+                {
+                    // Возврат к оригинальному списку
+                    ChatListBox.ItemsSource = new ObservableCollection<ChatInfo>(_chatList);
+                }
+            }
+        
+        }
+
+        // Не забудьте обновить ваше LoadUserChats, чтобы проверять на null
         private async void LoadUserChats(int userId)
         {
             try
@@ -128,13 +160,16 @@ namespace makets.pages
                 {
                     var jsonString = await response.Content.ReadAsStringAsync();
                     var chats = JsonConvert.DeserializeObject<List<ChatInfo>>(jsonString);
+
+                    _chatList.Clear(); // Сначала очищаем, чтобы избежать добавления дубликатов
+
                     if (chats == null || chats.Count == 0)
                     {
                         MessageBox.Show("Чатов нет");
+                        ChatListBox.ItemsSource = new ObservableCollection<ChatInfo>(); // Устанавливаем пустую коллекцию
                         return;
                     }
 
-                    _chatList.Clear();
                     foreach (var chat in chats)
                     {
                         _chatList.Add(new ChatInfo
@@ -144,6 +179,9 @@ namespace makets.pages
                             LastMessage = chat.LastMessage
                         });
                     }
+
+                    // После загрузки чатов устанавливаем ItemsSource
+                    ChatListBox.ItemsSource = _chatList;
                 }
                 else
                 {
@@ -162,6 +200,14 @@ namespace makets.pages
             _selectedChat = (ChatListBox.SelectedItem as ChatInfo)?.ChatId ?? 0;
             if (_selectedChat > 0)
             {
+                // Получаем данные о выбранном чате
+                var selectedChat = ChatListBox.SelectedItem as ChatInfo;
+                if (selectedChat != null && selectedChat.OtherUser != null)
+                {
+                    // Обновляем имя выбранного пользователя
+                    SelectedUserName.Text = selectedChat.OtherUser.Name ;
+                }
+
                 // Получаем сообщения из чата 
                 var response = await _httpClient.GetAsync($"Chat/messages/{_selectedChat}");
                 if (response.IsSuccessStatusCode)
@@ -172,7 +218,7 @@ namespace makets.pages
                     if (messages != null)
                     {
                         _messages = messages;
-                        //SelectedUserName.Text = _selectedUser.UserName;
+
                         _lastMessageTimestamp = _messages.LastOrDefault()?.TimeCreated ?? DateTime.MinValue;
                         SelectChatMessage.Visibility = Visibility.Collapsed;
                         MessageInputPanel.Visibility = Visibility.Visible;
@@ -183,7 +229,6 @@ namespace makets.pages
                 {
                     MessageBox.Show($"Ошибка при загрузке сообщений: {response.StatusCode}");
                 }
-         
             }
             else
             {
@@ -191,7 +236,6 @@ namespace makets.pages
                 MessageInputPanel.Visibility = Visibility.Collapsed;
             }
         }
-
         private void DisplayMessages()
         {
             MessagesPanel.Children.Clear();
@@ -236,6 +280,7 @@ namespace makets.pages
 
             MessageScrollViewer.ScrollToEnd();
         }
+
         private async void SendMessageButton_Click(object sender, RoutedEventArgs e)
         {
             if (_selectedChat <= 0 || string.IsNullOrWhiteSpace(MessageTextBox.Text))
@@ -332,12 +377,7 @@ namespace makets.pages
                 }
             }
         }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
+      
         public class ChatResponse
         {
             public int ChatId { get; set; }
