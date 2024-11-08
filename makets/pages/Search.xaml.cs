@@ -1,4 +1,6 @@
-﻿using System;
+﻿using makets.helper;
+using makets.Model.Model_users;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,6 +21,12 @@ namespace makets.pages
     /// </summary>
     public partial class Search : Window
     {
+
+        internal int currentUserId { get; set; } = int.MinValue;
+        internal int currentListIndex { get; set; } = 0;
+        internal List<DataUser>? _data = new();
+
+
         public Search()
         {
             InitializeComponent();
@@ -48,6 +56,42 @@ namespace makets.pages
                 }
             }
 
+        }
+
+        private async void UpdateInfo()
+        {
+           
+            Username.Text = this._data[currentListIndex].Name;
+            var userDescription = await APIService.GetUserDescription(this._data[currentListIndex].UserId);
+
+            if (!string.IsNullOrEmpty(userDescription))
+            {
+                AboutUser.Text = "Не удалось получить данные о пользователе";
+
+            }
+            else
+            {
+                AboutUser.Text = userDescription;
+            }
+        }
+
+        private async void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            var data = await APIService.GetUsers();
+            if (data is null || data.Count == 0)
+            {
+                MessageBox.Show("Ошибка при загрузке пользователей.");
+                return;
+            }
+            this._data = data;
+            UpdateInfo();  
+        }
+
+        private void LikeBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.currentListIndex++;
+            this.currentUserId = this._data[currentListIndex].UserId;
+            UpdateInfo();
         }
     }
 }

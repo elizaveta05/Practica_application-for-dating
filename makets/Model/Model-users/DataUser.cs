@@ -1,4 +1,5 @@
-﻿using System;
+﻿using makets;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace makets.Model.Model_users
@@ -29,6 +30,6 @@ namespace makets.Model.Model_users
         public int UdrId { get; set; }
 
         public string Name => $"{LastName} {FirstName}";
-
     }
 }
+

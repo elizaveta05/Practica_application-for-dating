@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:makets.pages"
         mc:Ignorable="d"
-        Title="Search" Height="550" Width="800">
+        Title="Search" Height="550" Width="800"
+        Loaded="Window_Loaded">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="#FFBFE5F0"/>
@@ -152,7 +153,7 @@
             </Border>
             <Separator Opacity="0" Width="120"/>
             <Border Height="30" CornerRadius="15" Background="#09283d" Padding="4">
-                <Button x:Name="LikeBtn" Content="Лайкнуть" Background="Transparent" Foreground="White"/>
+                <Button x:Name="LikeBtn" Content="Лайкнуть" Background="Transparent" Foreground="White" Click="LikeBtn_Click"/>
             </Border>
 
         </StackPanel>

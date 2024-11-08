@@ -1,145 +1,177 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\",
+  "WorkspaceRootPath": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\registration\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\search.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\search.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\search.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\userdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\userdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\datauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\datauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\usergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-chat\\otheruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-chat\\otheruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-chat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-chat\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-chat\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-chat\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\userphotoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\userphotoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-chat\\chatinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-chat\\chatinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\dtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\dtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\model\\model-users\\usertags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\model\\model-users\\usertags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\emailsender\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\emailsender\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\registration\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\registration\\usertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\editusertags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\editusertags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\profile\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserProfile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\passwordreset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\emailsender\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\emailsender\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\emailsender\\enums\\smtpenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\emailsender\\enums\\smtpenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\enums\\smtpenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\emailsender\\smtpcredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\emailsender\\smtpcredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\smtpcredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\emailsender\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\emailsender\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\emailsender\\enumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\userinfosaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\helper\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\elozo\\source\\repos\\practica_application-for-dating\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|c:\\users\\study\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\practica_application-for-dating\\makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D0AC69-9631-4E65-988C-0D4C38CF8936}|makets\\makets.csproj|solutionrelative:makets\\pages\\welcomepagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\Registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\NewUser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserTags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\NewUser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserInfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserProfile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserPurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserPurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserTags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\UserInfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:makets\\pages\\Registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -149,50 +181,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDescription.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserDescription.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\UserDescription.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserDescription.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\UserDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:24:20.407Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserGoals.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserGoals.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\UserGoals.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserGoals.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\UserGoals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:13:13.818Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\Match.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-chat\\Match.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\Match.cs",
+              "RelativeToolTip": "makets\\Model\\Model-chat\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:11:30.093Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\Message.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-chat\\Message.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\Message.cs",
+              "RelativeToolTip": "makets\\Model\\Model-chat\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:11:28.541Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtherUser.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\OtherUser.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-chat\\OtherUser.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\OtherUser.cs",
+              "RelativeToolTip": "makets\\Model\\Model-chat\\OtherUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:11:26.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserTags.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration\\UserTags.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\Registration\\UserTags.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration\\UserTags.xaml",
-              "RelativeToolTip": "makets\\pages\\Registration\\UserTags.xaml",
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\APIService.cs",
+              "RelativeDocumentMoniker": "makets\\helper\\APIService.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\APIService.cs",
+              "RelativeToolTip": "makets\\helper\\APIService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:25:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataUser.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\DataUser.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\DataUser.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\DataUser.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\DataUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:24:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Search.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Search.xaml",
+              "RelativeToolTip": "makets\\pages\\Search.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T08:37:23.845Z"
+              "WhenOpened": "2024-10-30T07:43:49.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Search.xaml.cs",
+              "RelativeToolTip": "makets\\pages\\Search.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAtwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:54:18.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomePagexaml.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml",
+              "RelativeToolTip": "makets\\pages\\WelcomePagexaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T12:16:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserPhotoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserPhotoProfile.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\UserPhotoProfile.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserPhotoProfile.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\UserPhotoProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:13:15.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatInfo.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\ChatInfo.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-chat\\ChatInfo.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-chat\\ChatInfo.cs",
+              "RelativeToolTip": "makets\\Model\\Model-chat\\ChatInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:11:31.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Chat.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Chat.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Chat.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Chat.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Chat.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Chat.xaml",
               "RelativeToolTip": "makets\\pages\\Chat.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-30T07:41:45.255Z",
@@ -200,56 +355,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserProfile.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml",
-              "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:08:51.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Search.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Search.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Search.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\Search.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAMAAAA",
+              "DocumentIndex": 13,
+              "Title": "DTOUser.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\DTOUser.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\DTOUser.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\DTOUser.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\DTOUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:54:18.139Z"
+              "WhenOpened": "2024-11-08T13:48:23.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Search.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Search.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\Search.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Search.xaml",
-              "RelativeToolTip": "makets\\pages\\Search.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:43:49.208Z"
+              "DocumentIndex": 14,
+              "Title": "UserTags.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserTags.cs",
+              "RelativeDocumentMoniker": "makets\\Model\\Model-users\\UserTags.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\Model\\Model-users\\UserTags.cs",
+              "RelativeToolTip": "makets\\Model\\Model-users\\UserTags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:48:04.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\App.xaml",
               "RelativeDocumentMoniker": "makets\\App.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\App.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\App.xaml",
               "RelativeToolTip": "makets\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:08:58.602Z"
+              "WhenOpened": "2024-10-30T07:08:58.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "EditUserTags.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml.cs",
               "RelativeToolTip": "makets\\pages\\Profile\\EditUserTags.xaml.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAwB8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "UserProfile.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml.cs",
               "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,69 +417,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
               "ToolTip": "C:\\Users\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\socia\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
               "ViewState": "AQIAAPMBAAAAAAAAAAAYwP4BAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T07:09:43.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "EditUserTags.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\Profile\\EditUserTags.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\EditUserTags.xaml",
               "RelativeToolTip": "makets\\pages\\Profile\\EditUserTags.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-30T07:08:49.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MailSender.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\MailSender.cs",
-              "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\MailSender.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\MailSender.cs",
-              "RelativeToolTip": "makets\\helper\\EmailSender\\MailSender.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAAAgAAAA",
+              "DocumentIndex": 16,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\IMailSender.cs",
+              "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\IMailSender.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\IMailSender.cs",
+              "RelativeToolTip": "makets\\helper\\EmailSender\\IMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:38:24.839Z"
+              "WhenOpened": "2024-10-27T16:42:36.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\MailSender.cs",
+              "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\MailSender.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\MailSender.cs",
+              "RelativeToolTip": "makets\\helper\\EmailSender\\MailSender.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:38:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\Profile\\UserProfile.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Profile\\UserProfile.xaml",
+              "RelativeToolTip": "makets\\pages\\Profile\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T07:08:51.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserTags.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Registration\\UserTags.xaml",
+              "RelativeDocumentMoniker": "makets\\pages\\Registration\\UserTags.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\Registration\\UserTags.xaml",
+              "RelativeToolTip": "makets\\pages\\Registration\\UserTags.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T08:37:23.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\MainWindow.xaml",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\MainWindow.xaml",
               "RelativeToolTip": "makets\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T10:45:39.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMailSender.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\IMailSender.cs",
-              "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\IMailSender.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\IMailSender.cs",
-              "RelativeToolTip": "makets\\helper\\EmailSender\\IMailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T16:42:36.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "makets\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\MainWindow.xaml.cs",
               "RelativeToolTip": "makets\\MainWindow.xaml.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAowEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,33 +511,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "PasswordReset.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml",
               "RelativeToolTip": "makets\\pages\\PasswordReset.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T14:37:51.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "UserProfile.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
-              "RelativeToolTip": "makets\\pages\\UserProfile.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T09:23:04.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "EnumExtension.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\EnumExtension.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\EnumExtension.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\EnumExtension.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\EnumExtension.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\EnumExtension.cs",
               "RelativeToolTip": "makets\\helper\\EmailSender\\EnumExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,11 +545,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "SMTPEnum.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
               "RelativeToolTip": "makets\\helper\\EmailSender\\Enums\\SMTPEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,11 +557,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "SmtpCredentials.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\SmtpCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\SmtpCredentials.cs",
               "RelativeDocumentMoniker": "makets\\helper\\EmailSender\\SmtpCredentials.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\EmailSender\\SmtpCredentials.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\EmailSender\\SmtpCredentials.cs",
               "RelativeToolTip": "makets\\helper\\EmailSender\\SmtpCredentials.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,11 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "PasswordReset.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\PasswordReset.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\PasswordReset.xaml.cs",
               "RelativeToolTip": "makets\\pages\\PasswordReset.xaml.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAYwEEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,55 +581,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "Registration.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
-              "RelativeToolTip": "makets\\pages\\Registration.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T10:50:32.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "NewUser.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
-              "RelativeToolTip": "makets\\pages\\NewUser.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T13:27:09.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "WelcomePagexaml.xaml",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml",
-              "RelativeToolTip": "makets\\pages\\WelcomePagexaml.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T12:16:01.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "UserTags.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
-              "RelativeToolTip": "makets\\pages\\UserTags.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T14:13:14.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "ColorHelper.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\ColorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\ColorHelper.cs",
               "RelativeDocumentMoniker": "makets\\helper\\ColorHelper.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\ColorHelper.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\ColorHelper.cs",
               "RelativeToolTip": "makets\\helper\\ColorHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,11 +626,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "WelcomePagexaml.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeDocumentMoniker": "makets\\pages\\WelcomePagexaml.xaml.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\pages\\WelcomePagexaml.xaml.cs",
               "RelativeToolTip": "makets\\pages\\WelcomePagexaml.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAawB4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,23 +638,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "NewUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\NewUser.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\NewUser.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\NewUser.xaml.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAcwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T14:06:38.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "UserInfoSaver.cs",
-              "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\UserInfoSaver.cs",
+              "DocumentMoniker": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\UserInfoSaver.cs",
               "RelativeDocumentMoniker": "makets\\helper\\UserInfoSaver.cs",
-              "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\helper\\UserInfoSaver.cs",
+              "ToolTip": "C:\\Users\\study\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\liza maket\\Practica_application-for-dating\\makets\\helper\\UserInfoSaver.cs",
               "RelativeToolTip": "makets\\helper\\UserInfoSaver.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -501,82 +662,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "UserInfo.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\UserInfo.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAArwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T08:08:35.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "UserProfile.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\UserProfile.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\UserProfile.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserProfile.xaml.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:52:47.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "UserPurposes.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\UserPurposes.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAtwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T07:42:45.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "UserPurposes.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\UserPurposes.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
-              "RelativeToolTip": "makets\\pages\\UserPurposes.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserPurposes.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T07:35:20.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "UserTags.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\UserTags.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\UserTags.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserTags.xaml.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAqwD4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T05:59:32.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "UserInfo.xaml",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
-              "RelativeDocumentMoniker": "makets\\pages\\UserInfo.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
-              "RelativeToolTip": "makets\\pages\\UserInfo.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\UserInfo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T07:56:54.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "Registration.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
-              "RelativeDocumentMoniker": "makets\\pages\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
               "ToolTip": "C:\\Users\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
-              "RelativeToolTip": "makets\\pages\\Registration.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elozo\\source\\repos\\Practica_application-for-dating\\makets\\pages\\Registration.xaml.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T11:25:44.268Z"
@@ -593,11 +754,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
